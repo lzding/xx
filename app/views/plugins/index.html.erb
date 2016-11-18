@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th>Plugin 文件</th>
+      <th>版本号</th>
+      <th>包名称</th>
+      <th>文件名称</th>
+      <th colspan="2">操作</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @plugins.each do |plugin| %>
+      <tr>
+        <td><%= plugin.file_path %></td>
+        <td><%= plugin.version %></td>
+        <td><%= plugin.pkg_name %></td>
+        <td><%= plugin.file_name %></td>
+        <td><%= link_to '编辑', edit_plugin_path(plugin), class:'btn btn-info btn-xs' %></td>
+        <td><%= link_to '删除', plugin, method: :delete, data: { confirm: '确认删除?' }, class: 'btn btn-default btn-xs' %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to '新建', new_plugin_path, class:'btn btn-success'%>

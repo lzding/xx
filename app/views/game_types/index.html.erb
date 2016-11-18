@@ -1,0 +1,43 @@
+<%- model_class = GameType -%>
+
+<p id="notice"><%= notice %></p>
+
+<h2 class="sub-header"><%=t '.title', :default => model_class.model_name.human.titleize %></h2>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th><%= model_class.human_attribute_name(:title)%></th>
+      <th><%= model_class.human_attribute_name(:picture) %></th>
+      <th><%= model_class.human_attribute_name(:special_type) %></th>
+      <th colspan="3"><%= t("helpers.actions") %></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @game_types.each_with_index  do |game_type, index| %>
+      <tr>
+        <td><%= index + 1 %></td>
+        <td><%=link_to game_type.title, game_type %></td>
+        <td><%= game_type.picture %></td>
+        <td><%= humanlizer_int game_type.special_type %></td>
+        <td colspan="3">
+          <%= link_to t('.edit', :default => t("helpers.links.edit")),
+                      edit_game_type_path(game_type), :class => 'btn btn-default btn-xs' %>
+          <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+                      game_type_path(game_type),
+                      :method => :delete,
+                      :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+                      :class => 'btn btn-xs btn-danger' %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to t('.new', :default => t("helpers.links.new")),
+            new_game_type_path,
+            :class => 'btn btn-success' %>

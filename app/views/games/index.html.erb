@@ -1,0 +1,66 @@
+<p id="notice"><%= notice %></p>
+
+<h2 class="sub-header">所有游戏[<%= Game.count%>]</h2>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th>游戏名称</th>
+      <th>大小(M)</th>
+      <th>游戏类型</th>
+      <th>Icon</th>
+      <th>Picture</th>
+      <!--<th>描述信息</th>-->
+      <!--<th>Createtime</th>-->
+      <!--<th>Updatetime</th>-->
+      <th>公司</th>
+      <th>版本号</th>
+      <!--<th>状态</th>-->
+      <th>是否需联网</th>
+      <th>Need google</th>
+      <th>是否免费</th>
+      <th>需要vpn?</th>
+      <th>已汉化？</th>
+      <!--<th colspan="2">下载地址</th>-->
+      <!--<th>分享地址</th>-->
+      <!--<th>分享密码</th>-->
+      <th colspan="3">操作</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @games.each do |game| %>
+      <tr>
+        <td><%=link_to game.title, game %></td>
+        <td><%= game.size %></td>
+        <td><%= game.gametype %></td>
+        <td><%= image_tag game.icon, size: '50x50' %></td>
+        <td><%= image_tag game.picture, size: '50x50' %></td>
+        <!--<td><%= game.content %></td>-->
+        <!--<td><%= game.createtime %></td>-->
+        <!--<td><%= game.updatetime %></td>-->
+        <td><%= game.company_name %></td>
+        <td><%= game.version %></td>
+        <!--<td><%= game.state %></td>-->
+        <td><%= humanlizer_int game.need_internet %></td>
+        <td><%= humanlizer_int game.need_google %></td>
+        <td><%= humanlizer_int game.free %></td>
+        <td><%= humanlizer_int game.need_vpn %></td>
+        <td><%= humanlizer_int game.Chinese %></td>
+        <!--<td><%= link_to '下载 1', game.download_url %> |
+         <%= link_to '下载 2', game.download_url_second %></td>-->
+        <!--<td><%= game.download_url_share %></td>-->
+        <!--<td><%= game.share_url_pwd %></td>-->
+        <td><%= link_to 'Edit', edit_game_path(game), :class => 'btn btn-default btn-xs' %></td>
+        <td><%= link_to 'Destroy', game, method: :delete, data: { confirm: '确定要删除？' }, class: "btn btn-xs btn-danger" %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= paginate @games %>
+<br>
+
+<%= link_to t('.new', :default => t("helpers.links.new")),
+            new_game_path,
+            :class => 'btn btn-success' %>

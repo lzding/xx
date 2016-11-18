@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>渠道商名称:</strong>
+  <%= @custom.name %>
+</p>
+
+<p>
+  <strong>过期时间:</strong>
+  <%= @custom.expire_date %>
+</p>
+
+<p>
+  <strong>Token:</strong>
+  <%= @custom.token %>
+</p>
+<p>
+  <strong>CMD:</strong>
+  <%= @custom.cmd %>
+</p>
+
+<p>
+  <strong>状态:</strong>
+  <%= @custom.status ? '启用' : '禁用' %>
+</p>
+
+<%= link_to '继续添加', new_custom_path ,:class => 'btn btn-success'%>
+<%= link_to '编辑',edit_custom_path(@custom),:class => 'btn btn-info' %>
+<%= link_to '返回', customs_path ,:class => 'btn btn-default'%>

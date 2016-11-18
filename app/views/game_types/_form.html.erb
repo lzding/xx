@@ -1,0 +1,15 @@
+<%= simple_form_for(@game_type) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.input :title, label: '游戏类别描述' %>
+    <%= f.input :picture, label: '类别图片' %>
+    <%= f.input :special_type,  collection: [[0,'正常分类'], [1,'特色分类']],label_method: :last, value_method: :first, label: '游戏类别', as: :radio_buttons  %>
+  </div>
+
+  <div class="form-actions">
+    <%= f.button :submit, "提交", class: 'btn btn-info' %>
+    <%= link_to t('.cancel', :default => t("helpers.links.cancel")),
+                game_types_path, :class => 'btn btn-default' %>
+  </div>
+<% end %>

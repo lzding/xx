@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>File name:</strong>
+  <%= @tool.file_name %>
+</p>
+
+<p>
+  <strong>Enabled:</strong>
+  <%= @tool.enabled %>
+</p>
+
+<%= link_to '查看', @tool, class:'btn btn-info' %>
+<%= link_to '继续添加', new_tool_path , class:'btn btn-success'%>
+<%= link_to 'Back', tools_path,class:'btn btn-default' %>

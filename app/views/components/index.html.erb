@@ -1,0 +1,33 @@
+<p id="notice"><%= notice %></p>
+
+<h1>所有 Components</h1>
+<table class="table table-hover" style="table-layout: fixed;word-wrap: break-word;">
+  <thead>
+    <tr>
+      <th class="wp7">名称</th>
+      <th class="wp25">文件</th>
+      <th>Category</th>
+      <th>Sdk api version</th>
+      <th>Status</th>
+      <th colspan="2" class="wp15">操作</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @components.each do |component| %>
+      <tr>
+        <td><%= component.name %></td>
+        <td><%= link_to  component.file_hex,component.file.url %></td>
+        <td><%= Component::CATEGORIES.key(component.category) ||'没有指定类型' %></td>
+        <td><%= Component::PIES.key(component.sdk_api_version) %></td>
+        <td><%= component.status ? '启用' : '禁用' %></td>
+        <td><%= link_to '编辑', edit_component_path(component)  , :class => 'btn btn-info btn-xs'%></td>
+        <td><%= link_to '删除', component, method: :delete, data: { confirm: 'Are you sure?' }  , :class => 'btn btn-default btn-xs'%></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to '添加 Component', new_component_path,class: 'btn btn-success' %>

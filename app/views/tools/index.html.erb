@@ -1,0 +1,28 @@
+<p id="notice"><%= notice %></p>
+
+<h1>工具类</h1>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th>文件名称</th>
+      <th>是否启用</th>
+      <th colspan="3" width="10%"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @tools.each do |tool| %>
+      <tr>
+        <td><%= tool.file_name %></td>
+        <td><%= tool.enabled ? '启用':'禁用' %></td>
+        <td><%= link_to '编辑', edit_tool_path(tool),:class => 'btn btn-info btn-xs' %></td>
+        <td><%= link_to '删除', tool, method: :delete, data: { confirm: '确定删除?' } ,:class => 'btn btn-default btn-xs' %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to '添加', new_tool_path ,class:'btn btn-success'%>

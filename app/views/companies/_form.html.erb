@@ -1,0 +1,14 @@
+<%= simple_form_for(@company) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.input :title, label: "公司名称" %>
+    <label for="account_user_name">公司Logo</label><br />
+    <%= f.file_field :picture%>
+  </div>
+    <br>
+  <div class="form-actions">
+    <%= f.button :submit, "提交", class: 'btn btn-info' %>
+    <%= link_to '返回', companies_path,  class: 'btn btn-default' %>
+  </div>
+<% end %>

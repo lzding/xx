@@ -1,0 +1,16 @@
+default: &default
+
+
+development:
+  <<: *default
+  database: boxzs
+
+test:
+  <<: *default
+  database: boxzs_test
+
+production:
+  <<: *default
+  database: box_cms_production
+  username: box_cms
+  password: <%= ENV['BOX_CMS_DATABASE_PASSWORD'] %>

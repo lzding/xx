@@ -1,0 +1,40 @@
+<%if notice%>
+<p id="notice" class="alert alert-info"><%= notice %></p>
+<%end%>
+<p>
+  <strong>执行文件:</strong>
+  <%= @root_file.file %>
+</p>
+
+<p>
+  <strong>方案名称:</strong>
+  <%= @root_file.source_name %>
+</p>
+
+<p>
+  <strong>MD5:</strong>
+  <%= @root_file.file_hex %>
+</p>
+
+<p>
+  <strong>Keyword:</strong>
+  <%= @root_file.keyword %>
+</p>
+
+<p>
+  <strong>优先级:</strong>
+  <%= @root_file.sort_num %>
+</p>
+<p>
+  <strong> 是否启用:</strong>
+  <%= @root_file.status ? '启用' : '禁用' %>
+</p>
+<p>
+  <strong>默认执行参数:</strong>
+  <%= @root_file.execute_params %>
+</p>
+
+
+<%= link_to '继续添加', new_root_file_path ,:class => 'btn btn-success'%>
+<%= link_to '编辑',edit_root_file_path(@root_file),:class => 'btn btn-info' %>
+<%= link_to '返回', root_files_path ,:class => 'btn btn-default'%>

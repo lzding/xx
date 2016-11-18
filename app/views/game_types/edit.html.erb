@@ -1,0 +1,4 @@
+<%- model_class = GameType -%>
+<h2><%=t '.title', :default => [:'helpers.titles.edit', 'Edit %{model}'], :model => model_class.model_name.human.titleize %></h2>
+
+<%= render 'form' %>

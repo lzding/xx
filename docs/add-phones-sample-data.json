@@ -1,0 +1,56 @@
+{
+  "token": "tysjLZoQcm9XhFmd6BLpPPvRXTU/t2zYyhdk5Yd70ps=",
+  "device": {
+    "MemTotal": "660956 kB",
+    "linuxversion": "3.0.8",
+    "propInfo": {
+      ".uname_r": "3.0.8-1080019",
+      ".uname_v": "#1 PREEMPT Fri Aug 31 23:54:40 KST 2012",
+      ".uname_v_utc": "1346425545",
+      ".product": "GT-S7562",
+      ".vendor": "samsung"
+    },
+    "imei": "353712050697955",
+    "androidId": "734283952a9f4031",
+    "macAddr": "04:FE:31:EC:D7:AF",
+    "prop": {
+      "ro.serialno": "dd2c4173",
+      "persist.sys.country": "",
+      "ro.product.name": "kylezc",
+      "ro.build.date": "Sat Sep  1 00:05:45 KST 2012",
+      "ro.build.version.sdk": "15",
+      "persist.sys.timezone": "Asia\/Shanghai",
+      "ro.product.brand": "samsung090",
+      "ro.build.description": "kylezc-user 4.0.4 IMM76I S7562ZCALI1 release-keys",
+      "ro.build.version.release": "4.0.4",
+      "ro.product.model": "GT-S7562",
+      "persist.sys.language": "",
+      "ro.btconfig.vendor": "",
+      "ro.build.date.utc": "1346425545",
+      "ro.runtime.firstboot": "1443005028846",
+      "ro.boot.cpuid": "",
+      "ro.build.fingerprint": "samsung\/kylezc\/kylechn:4.0.4\/IMM76I\/S7562ZCALI1:user\/release-keys",
+      "persist.sys.dalvik.vm.lib": ""
+    },
+    "cpuinfo": {
+      "revision": "0000",
+      "modelname": "",
+      "cpuimplementer": "0x41",
+      "hardware": "QCT MSM7x27a FFA",
+      "cpurevision": "1",
+      "cpupart": "0xc05",
+      "cpuarchitecture": "7",
+      "features": "swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls vfpv4",
+      "cpuvariant": "0x0",
+      "serial": "4103dd2c41737f66",
+      "processorcnt": "1"
+    },
+    "gles": {
+      "EXTENSIONS": "",
+      "VERSION": "",
+      "RENDERER": "",
+      "VENDOR": ""
+    }
+  },
+  "self": "com.example.suplus"
+}

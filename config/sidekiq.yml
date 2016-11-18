@@ -1,0 +1,23 @@
+---
+:namespace: sidekiq_namespace
+:concurrency:  5
+:logfile: ./log/sidekiq.log
+:pidfile: ./tmp/pids/sidekiq.pid
+:queues:
+  - log_devices
+  - root_success_call_back
+  - add_phones
+
+
+# set :sidekiq_role, :sidekiq
+
+#set roles and machines to deploy too
+#role :sidekiq, 'worker-1.acmecorp.com', 'worker-2.acmecorp.com'
+
+# set :sidekiq_cmd, "#{bundle_cmd} exec sidekiq"
+# set :sidekiqctl_cmd, "#{bundle_cmd} exec sidekiqctl"
+# set :sidekiq_timeout, 10
+# set :sidekiq_role, :app
+# set :sidekiq_pid, "#{current_path}/tmp/pids/sidekiq.pid"
+# set :sidekiq_processes, 1
+

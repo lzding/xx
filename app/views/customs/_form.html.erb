@@ -1,0 +1,18 @@
+<%= simple_form_for(@custom) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.input :name , label: "渠道名称（建议字母。不区分大小写）"%>
+    <%= f.input :expire_date, label: "过期时间" %>
+    <p><%= f.label '渠道类型'%><p>
+    <%= f.select :channel_type, channel_types %>
+    <%= f.input :cmd %>
+    <%= f.input :status, as: :boolean, checked_value: true, unchecked_value: false ,label: '是否启用',hint: '选中启用，留空禁用'%>
+  </div>
+
+  <div class="form-actions">
+    <%= f.button :submit, "提交", class: 'btn btn-info'%>
+    <%= link_to '返回', customs_path , class: 'btn btn-default'%>
+
+  </div>
+<% end %>

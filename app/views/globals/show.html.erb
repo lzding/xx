@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @global.name %>
+</p>
+
+<p>
+  <strong>File:</strong>
+  <%= @global.file %>
+</p>
+
+<p>
+  <strong>Status:</strong>
+  <%= @global.status %>
+</p>
+
+<%= link_to 'Edit', edit_global_path(@global) %> |
+<%= link_to 'Back', globals_path %>

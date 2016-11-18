@@ -1,0 +1,20 @@
+<%= simple_form_for(@component) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.input :name, label: '名字（或描述）' %>
+    <%= f.input :file, label: '上传文件',as: :file %>
+    <%= f.label '方案类型:'%>
+    <%= f.select :category, categories_for_select %><br/>
+    <%= f.label 'SDK API 版本(<21 非 PIE，>=21PIE):'%><p>
+    <%= f.select :sdk_api_version, pie_for_select %>
+    <%= f.input :status, as: :boolean, checked_value: true, unchecked_value: false ,label: '是否启用',hint: '选中启用，留空禁用'%>
+
+  </div>
+
+  <div class="form-actions">
+    <%= f.button :submit, "提交", class: 'btn btn-info'%>
+    <%= link_to '返回', components_path , class:'btn btn-default'%>
+
+  </div>
+<% end %>

@@ -1,0 +1,5466 @@
+[
+  {
+    "vendor": "LENOVO",
+    "product": "Lenovo B8080-F",
+    "uname_r": "3.4.0-ga94d719-00042-g8921676",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 25 10:20:20 CST 2014"
+  },
+  {
+    "vendor": "LENOVO",
+    "product": "Lenovo B8080-F",
+    "uname_r": "3.4.0-ga94d719-00050-g2f0550d",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 26 18:49:02 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Grand S II LTE",
+    "uname_r": "3.4.0-g9711309-00001-gdd14e65",
+    "uname_v": "#1 SMP PREEMPT Mon May 12 13:03:07 CST 2014"
+  },
+  {
+    "vendor": "LGE",
+    "product": "LG-D858",
+    "uname_r": "3.4.0-perf-g137b505",
+    "uname_v": "#1 SMP PREEMPT Sat Jul 12 00:54:06 KST 2014"
+  },
+  {
+    "vendor": "google",
+    "product": "Nexus 5",
+    "uname_r": "3.4.0-gd59db4e",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 17 15:16:36 PDT 2014"
+  },
+  {
+    "vendor": "Meizu",
+    "product": "MX4 Pro",
+    "uname_r": "3.10.9-user-g6224a4e-dirty",
+    "uname_v": "#2 SMP PREEMPT Sat Dec 20 15:41:48 CST 2014"
+  },
+  {
+    "vendor": "Meizu",
+    "product": "MX4 Pro",
+    "uname_r": "3.10.9-user-g2161f2d-dirty",
+    "uname_v": "#2 SMP PREEMPT Thu Dec 4 16:46:48 CST 2014"
+  },
+  {
+    "vendor": "Meizu",
+    "product": "MX4 Pro",
+    "uname_r": "3.10.9-user-g2dc6120-dirty",
+    "uname_v": "#2 SMP PREEMPT Thu Nov 20 21:42:56 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3559",
+    "uname_r": "3.4.0-1747370",
+    "uname_v": "#1 SMP PREEMPT Fri May 30 18:17:02 KST 2014"
+  },
+  {
+    "vendor": "google",
+    "product": "Nexus S",
+    "uname_r": "3.0.31-g5894150",
+    "uname_v": "#1 PREEMPT Mon Sep 10 14:10:13 PDT 2012"
+  },
+  {
+    "vendor": "Nokia",
+    "product": "Nokia_XL_4G",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 4 01:23:50 CST 2014"
+  },
+  {
+    "vendor": "Nokia",
+    "product": "Nokia_XL_4G",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sat Jul 12 18:01:06 CST 2014"
+  },
+  {
+    "vendor": "Nokia",
+    "product": "Nokia_XL_4G",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 27 17:05:02 CST 2014"
+  },
+  {
+    "vendor": "Nokia",
+    "product": "Nokia_XL_4G",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 16 16:13:58 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G750-T20",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 31 01:22:55 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9507V",
+    "uname_r": "3.4.0-2504821",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 31 20:04:32 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9507V",
+    "uname_r": "3.4.0-2504821",
+    "uname_v": "#1 SMP PREEMPT Fri May 23 09:42:27 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9507V",
+    "uname_r": "3.4.0-2504821",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 11 18:10:54 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9507V",
+    "uname_r": "3.4.0-2504821",
+    "uname_v": "#1 SMP PREEMPT Thu Feb 20 14:17:25 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G520-T10",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Sat Sep 21 01:19:14 HKT 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G520-T10",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 23 16:41:54 HKT 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G520-T10",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 20 19:02:17 HKT 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G520-T10",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Wed Dec 18 12:30:10 HTK 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G520-T10",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Thu May 30 19:37:02 HTK 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G520-T10",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 10 16:52:20 HKT 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI P6-C00",
+    "uname_r": "3.0.8-00776-gc2ad10f",
+    "uname_v": "#2 SMP PREEMPT Wed Jul 9 04:10:26 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D316d",
+    "uname_r": "3.4.0-g80ec9c8-01201-g8a8f91a-dirty",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 16 15:27:47 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L03",
+    "uname_r": "3.10.30-00066-g52945cf",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 23 20:53:15 CST 2014"
+  },
+  {
+    "vendor": "Sony",
+    "product": "L39h",
+    "uname_r": "3.4.0-perf-g6f5bf40",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 20 14:02:18 2014"
+  },
+  {
+    "vendor": "Sony",
+    "product": "L39h",
+    "uname_r": "3.4.0-perf-gde8296d-02194-ga2561a5",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 8 18:31:21 2013"
+  },
+  {
+    "vendor": "Sony",
+    "product": "L39h",
+    "uname_r": "3.4.0-perf-g8330588",
+    "uname_v": "#1 SMP PREEMPT Thu Jan 9 01:06:59 2014"
+  },
+  {
+    "vendor": "Sony",
+    "product": "L39h",
+    "uname_r": "3.4.0-perf-g66807d4-02450-g9a218f1",
+    "uname_v": "#1 SMP PREEMPT Mon Sep 30 17:00:29 2013"
+  },
+  {
+    "vendor": "Sony",
+    "product": "L39h",
+    "uname_r": "3.4.0-perf-gde8296d-02200-g6e85970",
+    "uname_v": "#1 SMP PREEMPT Fri Sep 13 11:20:39 2013"
+  },
+  {
+    "vendor": "Sony",
+    "product": "L39h",
+    "uname_r": "3.4.0-perf-g4f35567",
+    "uname_v": "#1 SMP PREEMPT Tue Nov 19 19:53:25 2013"
+  },
+  {
+    "vendor": "Sony",
+    "product": "L39h",
+    "uname_r": "3.4.0-perf-g0109737",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 12 14:20:25 2014"
+  },
+  {
+    "vendor": "Sony",
+    "product": "L39h",
+    "uname_r": "3.4.0-perf-g8c33725",
+    "uname_v": "#1 SMP PREEMPT Thu Feb 20 12:57:13 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-g3054511",
+    "uname_v": "#1 SMP PREEMPT Fri Aug 22 21:52:22 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816t",
+    "uname_r": "3.4.0-ge21febe",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 26 17:25:01 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A808t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 24 11:54:52 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A358t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 9 14:22:14 EDT 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q507T",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 18 20:04:53 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Tue Feb 25 18:44:47 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Tue Feb 11 21:15:58 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Mon Apr 28 16:31:04 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 18 12:17:18 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 13 18:35:17 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Thu Feb 27 16:47:19 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Tue Dec 24 18:48:44 CST 2013"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Thu Jan 2 11:55:12 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Tue Jan 14 21:24:51 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Wed Jan 22 00:39:15 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 2 10:38:11 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#6 SMP PREEMPT Thu May 15 11:19:11 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Tue Jun 24 10:12:24 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Sat May 3 14:25:16 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Tue Apr 1 17:40:13 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Mon Apr 21 14:06:54 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Fri Feb 21 22:08:03 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Thu Mar 27 17:17:19 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Fri Feb 14 14:49:36 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Wed Aug 27 16:53:20 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Mon Jun 9 21:18:57 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Thu Mar 13 18:57:51 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8268",
+    "uname_r": "3.4.5-1526121",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 10 14:01:42 KST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q802T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 6 20:51:36 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q802T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 18 00:30:46 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q802T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 6 20:39:34 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q802T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 11 12:59:04 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q802T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 9 23:57:17 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q802T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 2 00:30:11 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q802T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sat Mar 22 20:14:59 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q802T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu May 22 20:48:03 CST 2014"
+  },
+  {
+    "vendor": "TCL",
+    "product": "TCL-P306C",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 14 20:01:33 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#6 SMP PREEMPT Fri Apr 25 21:36:18 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#4 SMP PREEMPT Wed Aug 20 19:37:30 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#10 SMP PREEMPT Thu Feb 13 15:50:17 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#18 SMP PREEMPT Thu Feb 20 22:20:58 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#6 SMP PREEMPT Fri Mar 7 07:30:39 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#4 SMP PREEMPT Sat Jan 25 20:44:03 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#20 SMP PREEMPT Fri Mar 21 20:48:49 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#2 SMP PREEMPT Wed Jan 29 11:46:46 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#2 SMP PREEMPT Wed May 21 20:18:43 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#2 SMP PREEMPT Mon Apr 14 17:08:59 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#6 SMP PREEMPT Wed Apr 2 17:01:13 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#4 SMP PREEMPT Fri Jun 20 22:03:29 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#2 SMP PREEMPT Fri Apr 25 20:36:48 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#8 SMP PREEMPT Fri Jun 6 22:55:41 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#14 SMP PREEMPT Tue Jul 22 17:50:52 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#18 SMP PREEMPT Thu Feb 20 22:20:58 CST 2014"
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#10 SMP PREEMPT Fri Sep 12 21:31:17 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI Y330-C00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 4 17:11:56 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q507T",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 10 22:38:04 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A358t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 5 05:37:47 AKDT 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "HM NOTE 1TD",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Fri May 9 18:15:27 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9009",
+    "uname_r": "3.4.0-2420422",
+    "uname_v": "#1 SMP PREEMPT Mon Aug 25 21:21:27 KST 2014"
+  },
+  {
+    "vendor": "smartisan",
+    "product": "SM701",
+    "uname_r": "3.4.0-perf-g7f9949a-00156-g8188dfd",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 26 15:03:50 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-g3054511",
+    "uname_v": "#1 SMP PREEMPT Fri Aug 22 21:52:22 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L01",
+    "uname_r": "3.10.30-00098-g1606afd",
+    "uname_v": "#1 SMP PREEMPT Sat Sep 13 11:18:49 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch 2",
+    "uname_r": "3.4.0-gdf2ce8e-00191-g78ac7b4",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 4 11:27:09 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch 2",
+    "uname_r": "3.4.0-gdf2ce8e-00180-gc86519f",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 3 12:01:07 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch 2",
+    "uname_r": "3.4.0-gdf2ce8e-00182-g4c662fa",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 22 15:24:01 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch 2",
+    "uname_r": "3.4.0-gdf2ce8e-00191-g78ac7b4",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 10 12:55:44 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Fri Aug 29 11:15:48 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 12 11:45:24 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00089-gb77ebbb",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 19 10:35:41 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Sep 11 04:28:52 CST 2014"
+  },
+  {
+    "vendor": "nubia",
+    "product": "NX507J",
+    "uname_r": "3.4.0-perf-g6a377e3",
+    "uname_v": "#1 SMP PREEMPT Sat Aug 16 22:21:10 CST 2014"
+  },
+  {
+    "vendor": "GiONEE",
+    "product": "GN151",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 22 19:04:47 CST 2014"
+  },
+  {
+    "vendor": "hp",
+    "product": "Slate 21",
+    "uname_r": "3.4.35",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 6 15:48:27 CST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-P729",
+    "uname_r": "3.4.0-2646603",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 16 09:48:13 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9082",
+    "uname_r": "3.0.31-1329072",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 30 10:09:04 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9082",
+    "uname_r": "3.0.31-1549526",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 10 20:59:43 KST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8297W",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 9 10:55:26 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5892",
+    "uname_r": "3.4.0-g1e451e8-03877-g094b2a4-dirty",
+    "uname_v": "#1 SMP PREEMPT Thu May 29 11:39:09 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5892",
+    "uname_r": "3.4.0-g1e451e8-03878-g2e1e46f-dirty",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 5 11:29:58 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5892",
+    "uname_r": "3.4.0-g1e451e8-03791-g0ab7959-dirty",
+    "uname_v": "#1 SMP PREEMPT Tue Feb 11 12:39:06 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5892",
+    "uname_r": "3.4.0-g1e451e8-03866-gb40b046-dirty",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 18 13:09:45 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5892",
+    "uname_r": "3.4.0-g1e451e8-03867-g5b0bbbd-dirty",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 18 11:00:18 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5892",
+    "uname_r": "3.4.0-g1e451e8-03879-ge3b2380-dirty",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 9 20:39:34 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5892",
+    "uname_r": "3.4.0-g1e451e8-03879-ge3b2380-dirty",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 16 22:59:45 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00146-gb609332",
+    "uname_v": "#1 SMP PREEMPT Mon May 26 12:53:45 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00108-gd9ff27a",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 15 10:34:35 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00139-gd2959ff",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 1 12:07:38 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00136-g555e182",
+    "uname_v": "#1 SMP PREEMPT Sat Mar 15 00:06:40 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00145-g4e68c2d",
+    "uname_v": "#1 SMP PREEMPT Mon May 5 15:35:27 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00102-g71b9db0",
+    "uname_v": "#1 SMP PREEMPT Wed Feb 12 13:27:40 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00104-gd7d4def",
+    "uname_v": "#1 SMP PREEMPT Fri Feb 21 13:01:42 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00061-ga58a3ee",
+    "uname_v": "#1 SMP PREEMPT Wed Jan 15 20:35:26 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00105-gc0372eb",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 12 10:59:16 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00134-gc5acfad",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 7 12:57:37 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00133-g711fe7d",
+    "uname_v": "#1 SMP PREEMPT Sat Mar 1 17:18:10 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00106-g1f6e2cf",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 24 14:48:06 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00011-g1dc0172",
+    "uname_v": "#1 SMP PREEMPT Sat Dec 21 12:50:52 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G610-C00",
+    "uname_r": "3.4.0-perf-g8e16523",
+    "uname_v": "#1 SMP PREEMPT Mon Apr 21 10:21:42 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G610-C00",
+    "uname_r": "3.4.0-perf-g659f716-00653-g1b0a565",
+    "uname_v": "#1 SMP PREEMPT Wed Feb 12 17:49:09 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G610-C00",
+    "uname_r": "3.4.0-perf-g659f716-00648-gb0e83b7",
+    "uname_v": "#1 SMP PREEMPT Thu Oct 24 13:57:17 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G610-C00",
+    "uname_r": "3.4.0-perf-g659f716-00646-g005112c",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 3 12:22:06 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G610-C00",
+    "uname_r": "3.4.0-perf-g659f716-00644-g7447e00",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 7 16:14:14 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G610-C00",
+    "uname_r": "3.4.0-perf-g659f716-00643-gef5dc7d",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 19 12:39:00 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G610-C00",
+    "uname_r": "3.4.0-perf-g659f716-00640-gff55b93",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 28 18:17:37 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G610-C00",
+    "uname_r": "3.4.0-perf-g659f716-00632-g003a949",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 3 21:53:13 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G610-C00",
+    "uname_r": "3.4.0-perf-g659f716-00531-gfebfa98",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 29 22:51:32 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G610-C00",
+    "uname_r": "3.4.0-perf-g8e16523",
+    "uname_v": "#1 SMP PREEMPT Tue May 6 13:45:18 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q505T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed May 21 14:54:52 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q505T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 18 14:00:23 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q505T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 2 19:01:51 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q505T",
+    "uname_r": "3.4.0",
+    "uname_v": "#2 SMP PREEMPT Wed Apr 16 16:35:28 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q505T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Mon Apr 14 03:06:01 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q505T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Mon Apr 28 16:04:32 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8729",
+    "uname_r": "3.4.0-g1e451e8-04433-g5a21c52",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 28 16:11:03 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8729",
+    "uname_r": "3.4.0-g1e451e8-04500-g31d5610",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 8 12:27:23 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8729",
+    "uname_r": "3.4.0-g1e451e8-04496-g630e443",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 23 20:34:54 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8729",
+    "uname_r": "3.4.0-g1e451e8-04500-g31d5610",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 13 15:42:18 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8729",
+    "uname_r": "3.4.0-g1e451e8-04496-g630e443",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 18 11:32:24 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8729",
+    "uname_r": "3.4.0-g1e451e8-04496-g630e443",
+    "uname_v": "#1 SMP PREEMPT Tue May 27 23:34:03 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8729",
+    "uname_r": "3.4.0-g1e451e8-04351-ga5fd9de",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 14 11:41:36 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8729",
+    "uname_r": "3.4.0-g1e451e8-04500-g31d5610",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 1 15:37:39 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8729",
+    "uname_r": "3.4.0-g1e451e8-04473-g24d6497",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 9 00:27:59 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8729",
+    "uname_r": "3.4.0-g1e451e8-04275-gd56a613",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 6 04:37:42 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8729",
+    "uname_r": "3.4.0-g1e451e8-04496-g630e443",
+    "uname_v": "#1 SMP PREEMPT Sun May 4 12:27:59 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5311",
+    "uname_r": "3.4.0-ge931380",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 5 19:44:58 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9009W",
+    "uname_r": "3.4.0-1862277",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 9 16:39:15 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9009W",
+    "uname_r": "3.4.0-1862277",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 5 21:55:36 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502C",
+    "uname_r": "3.4.0-2529008",
+    "uname_v": "#1 SMP PREEMPT Thu Feb 13 19:49:19 KST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Aug 29 20:19:20 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3508I",
+    "uname_r": "3.0.8-1502769-user",
+    "uname_v": "#1 SMP PREEMPT Thu Jan 16 19:43:06 KST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "N5117",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 6 00:18:22 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "N5117",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 22 23:20:52 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "N5117",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 22 00:07:47 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "N5117",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 17 15:20:52 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "N5117",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 4 21:58:45 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "N5117",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 26 13:47:30 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "N5117",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sun Jun 15 21:23:08 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "N5117",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri May 30 20:42:19 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "N5117",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sat Jun 14 13:27:52 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00102-g71b9db0",
+    "uname_v": "#1 SMP PREEMPT Sat Feb 8 20:45:59 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8297",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Wed Sep 3 18:37:05 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-C00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 14 18:01:27 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816D",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 7 18:19:27 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816D",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Mon May 19 10:59:05 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816D",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 13 05:14:59 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816D",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 4 19:57:25 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R7007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Aug 29 12:24:25 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7108",
+    "uname_r": "3.4.0-2628929",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 2 18:25:45 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7108",
+    "uname_r": "3.4.0-2469478",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 27 17:00:09 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7108",
+    "uname_r": "3.4.0-2469478",
+    "uname_v": "#1 SMP PREEMPT Sat Jan 25 16:36:34 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7108",
+    "uname_r": "3.4.0-2469478",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 13 10:01:18 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7108",
+    "uname_r": "3.4.0-2294751",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 6 15:05:26 KST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 2",
+    "uname_r": "3.4.0-g52db9c3-01077-gb91661e",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 22 13:32:39 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo S720",
+    "uname_r": "3.0.13",
+    "uname_v": "#1 SMP PREEMPT Tue Feb 5 13:00:34 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8817L",
+    "uname_r": "3.4.0-ge5f8475",
+    "uname_v": "#1 SMP PREEMPT Thu May 15 18:30:53 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8817L",
+    "uname_r": "3.4.0-g426a393",
+    "uname_v": "#1 SMP PREEMPT Sun Jun 15 03:17:35 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8817L",
+    "uname_r": "3.4.0-g06715cf",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 25 04:15:06 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8817L",
+    "uname_r": "3.4.0-ge00bc04",
+    "uname_v": "#1 SMP PREEMPT Mon Jul 21 09:23:54 CST 2014"
+  },
+  {
+    "vendor": "SEMC",
+    "product": "LT26i",
+    "uname_r": "3.4.0+1.0.21100-313065-g1ccebb5-00193-gcbc50fc",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 23 15:55:38 2013"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R7007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 26 13:47:30 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R7007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 4 21:58:45 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R7007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 6 00:18:22 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R7007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 12 22:25:56 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008",
+    "uname_r": "3.4.0-2267386",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 18 20:13:12 KST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8730L",
+    "uname_r": "3.4.0-g1e451e8-04482-g98e9db5",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 29 22:48:19 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8730L",
+    "uname_r": "3.4.0-g1e451e8-04426-gf39fdf6",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 27 21:52:27 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8730L",
+    "uname_r": "3.4.0-g1e451e8-04485-g36593cb",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 5 12:35:35 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8730L",
+    "uname_r": "3.4.0-g1e451e8-03427-g0b411e6",
+    "uname_v": "#1 SMP PREEMPT Sun Jan 26 22:02:20 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8730L",
+    "uname_r": "3.4.0-g1e451e8-04477-g8daa6bc",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 18 00:22:28 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8730L",
+    "uname_r": "3.4.0-g1e451e8-03440-gb463996",
+    "uname_v": "#1 SMP PREEMPT Tue Mar 4 00:16:44 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8730L",
+    "uname_r": "3.4.0-g1e451e8-03431-g2587558",
+    "uname_v": "#1 SMP PREEMPT Tue Jan 28 19:48:25 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8730L",
+    "uname_r": "3.4.0-g1e451e8-04486-gb987956",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 29 16:02:23 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502I",
+    "uname_r": "3.4.0-2309486",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 27 09:18:16 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3568V",
+    "uname_r": "3.10.0-1747289",
+    "uname_v": "#2 SMP PREEMPT Tue Jun 3 17:01:27 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9168I",
+    "uname_r": "3.4.5-2519058",
+    "uname_v": "#1 SMP PREEMPT Wed May 21 17:18:47 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "G620-L75",
+    "uname_r": "3.4.0-gdd4f5ee",
+    "uname_v": "#1 SMP PREEMPT Sat Mar 29 04:11:21 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I959",
+    "uname_r": "3.4.5-2161482",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 10 17:22:03 KST 2014"
+  },
+  {
+    "vendor": "SEMC",
+    "product": "LT26i",
+    "uname_r": "3.0.8+1.0.21100-30145-01956-g43358ca",
+    "uname_v": "#1 SMP PREEMPT Mon Jul 30 13:29:45 2012"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502I",
+    "uname_r": "3.4.0-2309486",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 2 10:30:39 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9168I",
+    "uname_r": "3.4.5-2519058",
+    "uname_v": "#1 SMP PREEMPT Sun Feb 16 20:46:52 KST 2014"
+  },
+  {
+    "vendor": "Honor",
+    "product": "HONOR H30-L01",
+    "uname_r": "3.0.8-ged35d08",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 9 15:35:41 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI Y600D-C00",
+    "uname_r": "3.4.0-gd2fe320-00003-g35149ea",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 4 01:40:37 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8817L",
+    "uname_r": "3.4.0-g58e308e",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 27 03:20:42 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-C00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 18 01:37:06 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI P6-T00",
+    "uname_r": "3.0.8-00818-g5e98b66",
+    "uname_v": "#2 SMP PREEMPT Tue Jan 14 03:10:18 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI P6-C00",
+    "uname_r": "3.0.8-00820-g7580b59",
+    "uname_v": "#2 SMP PREEMPT Sat Jan 11 04:04:57 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L01",
+    "uname_r": "3.10.30-00089-gb77ebbb",
+    "uname_v": "#1 SMP PREEMPT Mon Aug 18 13:06:19 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9009D",
+    "uname_r": "3.4.0-1716152",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 4 11:34:58 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G900H",
+    "uname_r": "3.10.9-1539356",
+    "uname_v": "#1 SMP PREEMPT Fri May 9 19:18:14 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9008V",
+    "uname_r": "3.4.0-965559",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 26 00:28:07 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9006V",
+    "uname_r": "3.4.0-1716152",
+    "uname_v": "#1 SMP PREEMPT Wed May 21 20:31:32 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "G620-L75",
+    "uname_r": "3.4.0-g07d7051",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 27 03:50:57 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G700-U00",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Mon Jul 7 05:46:20 HKT 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9505",
+    "uname_r": "3.4.0-481100",
+    "uname_v": "#1 SMP PREEMPT Tue Feb 25 05:12:28 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-913788",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 31 18:54:49 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G700-U00",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Mon Jul 7 05:46:20 HKT 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9502",
+    "uname_r": "3.4.5-1494240",
+    "uname_v": "#1 SMP PREEMPT Tue May 13 14:34:48 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9009D",
+    "uname_r": "3.4.0-965559",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 12 22:42:56 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9009D",
+    "uname_r": "3.4.0-965559",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 2 13:49:35 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9009D",
+    "uname_r": "3.4.0-965559",
+    "uname_v": "#1 SMP PREEMPT Mon Apr 14 18:41:08 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9009D",
+    "uname_r": "3.4.0-965559",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 24 22:29:07 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9009D",
+    "uname_r": "3.4.0-1716152",
+    "uname_v": "#1 SMP PREEMPT Wed May 21 20:29:44 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G900H",
+    "uname_r": "3.10.9-1018780",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 13 23:10:49 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G900H",
+    "uname_r": "3.10.9-1137955",
+    "uname_v": "#1 SMP PREEMPT Tue Mar 25 23:41:59 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G900H",
+    "uname_r": "3.10.9-1183700",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 31 14:25:05 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G900H",
+    "uname_r": "3.10.9-1186981",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 31 18:29:24 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9008V",
+    "uname_r": "3.4.0-965559",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 26 00:28:07 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9008V",
+    "uname_r": "3.4.0-965559",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 16 15:35:17 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9008V",
+    "uname_r": "3.4.0-965559",
+    "uname_v": "#1 SMP PREEMPT Thu May 8 20:30:33 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9008V",
+    "uname_r": "3.4.0-1716152",
+    "uname_v": "#1 SMP PREEMPT Wed May 21 20:30:54 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9008V",
+    "uname_r": "3.4.0-1716152",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 9 18:02:40 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I959",
+    "uname_r": "3.4.5-1368777",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 24 17:35:16 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9006V",
+    "uname_r": "3.4.0-965559",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 26 00:23:24 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9006V",
+    "uname_r": "3.4.0-965559",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 2 10:18:02 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9006V",
+    "uname_r": "3.4.0-1716152",
+    "uname_v": "#1 SMP PREEMPT Wed May 21 20:31:32 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9006V",
+    "uname_r": "3.4.0-1716152",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 4 11:34:24 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N900",
+    "uname_r": "3.4.39-527589",
+    "uname_v": "#1 SMP PREEMPT Tue Jan 28 17:00:03 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I959",
+    "uname_r": "3.4.5-1368777",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 24 17:32:31 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-913788",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 10 14:26:11 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-2320265",
+    "uname_v": "1 SMP PREEMPT Wed Dec 18 06:07:16 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9502",
+    "uname_r": "3.4.5-1494240",
+    "uname_v": "#1 SMP PREEMPT Tue May 27 17:07:17 KST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn7920",
+    "uname_v": "#1 SMP PREEMPT Thu May 29 20:32:11 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn8759",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 3 11:52:07 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008",
+    "uname_r": "3.4.0-1598409",
+    "uname_v": "#1 SMP PREEMPT Thu Sep 12 00:00:30 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008",
+    "uname_r": "3.4.0-1598409",
+    "uname_v": "#1 SMP PREEMPT Thu Oct 10 18:03:56 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008",
+    "uname_r": "3.4.0-503555",
+    "uname_v": "#1 SMP PREEMPT Fri Jan 24 23:47:16 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008",
+    "uname_r": "3.4.0-607278",
+    "uname_v": "#1 SMP PREEMPT Thu Feb 6 11:19:05 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Thu Feb 20 17:53:02 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Wed May 7 09:39:02 KST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-943469",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 6 21:05:42 KST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-943469",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 24 18:17:14 KST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-943469",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 2 01:05:31 KST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-943469",
+    "uname_v": "#1 SMP PREEMPT Wed May 14 17:27:08 KST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-914589",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 5 00:36:30 KST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-943469",
+    "uname_v": "#1 SMP PREEMPT Wed May 14 16:59:03 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9009",
+    "uname_r": "3.4.0-1324431",
+    "uname_v": "#1 SMP PREEMPT Thu May 8 21:06:04 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9009",
+    "uname_r": "3.4.0-1324431",
+    "uname_v": "#1 SMP PREEMPT Wed May 28 17:45:07 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9009",
+    "uname_r": "3.4.0-1324431",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 5 17:15:25 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N900",
+    "uname_r": "3.4.39-527589",
+    "uname_v": "#1 SMP PREEMPT Tue Jan 28 17:00:03 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N900",
+    "uname_r": "3.4.39-798522",
+    "uname_v": "#1 SMP PREEMPT Fri Feb 21 19:05:43 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N900",
+    "uname_r": "3.4.39-1383905",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 17 23:06:39 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N900",
+    "uname_r": "3.4.39-1694499",
+    "uname_v": "#1 SMP PREEMPT Tue May 20 11:36:42 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N900",
+    "uname_r": "3.4.39-1921990",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 12 15:55:43 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-1938685",
+    "uname_v": "#1 SMP PREEMPT Mon Oct 21 22:21:25 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-699287",
+    "uname_v": "#1 SMP PREEMPT Thu Feb 13 20:28:09 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-805576",
+    "uname_v": "#1 SMP PREEMPT Mon Feb 24 20:44:00 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-913788",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 26 11:14:51 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-913788",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 31 18:57:23 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-913788",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 10 14:18:41 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-1841181",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 4 10:13:01 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-913788",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 10 14:19:52 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9502",
+    "uname_r": "3.4.5-1494240",
+    "uname_v": "#1 SMP PREEMPT Tue May 13 14:36:01 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9502",
+    "uname_r": "3.4.5-1494240",
+    "uname_v": "#1 SMP PREEMPT Tue May 27 17:09:09 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-913788",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 31 18:54:48 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9505",
+    "uname_r": "3.4.0-481100",
+    "uname_v": "#1 SMP PREEMPT Fri Feb 14 12:10:25 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9505",
+    "uname_r": "3.4.0-805641",
+    "uname_v": "#1 SMP PREEMPT Sat Feb 22 15:01:49 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9505",
+    "uname_r": "3.4.0-481100",
+    "uname_v": "#1 SMP PREEMPT Sat Mar 8 00:28:12 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9505",
+    "uname_r": "3.4.0-1854187",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 5 15:49:25 KST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "HM 1S",
+    "uname_r": "3.4.0-g6e12f86-00267-g31dec44",
+    "uname_v": "#1 SMP PREEMPT Thu May 8 17:07:00 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "HM 1S",
+    "uname_r": "3.4.0-g6e12f86-00266-g8cd00c9",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 23 21:27:00 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "HM 1S",
+    "uname_r": "3.4.0-gbdcefaa-00208-ga306251",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 2 21:08:32 CST 2014"
+  },
+  {
+    "vendor": "ONEPLUS",
+    "product": "A0001",
+    "uname_r": "3.4.0-svn8597",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 30 11:09:03 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "X9180",
+    "uname_r": "3.4.0-g1520d93-00053-g2bd6c63",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 8 18:54:20 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "U9180",
+    "uname_r": "3.4.0-g7f45615-00083-g8b08b45",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 26 17:30:17 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-699287",
+    "uname_v": "#1 SMP PREEMPT Wed May 28 23:18:46 KST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn9409",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 5 12:02:28 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00050-g8d05198",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 15 12:03:25 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L01",
+    "uname_r": "3.10.30-00060-g10d935d",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 31 10:07:25 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "HM 1S",
+    "uname_r": "3.4.0-gbdcefaa-00208-ga306251",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 2 21:08:32 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "HM 1S",
+    "uname_r": "3.4.0-g6e12f86-00266-g8cd00c9",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 23 21:27:00 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "HM 1S",
+    "uname_r": "3.4.0-g6e12f86-00267-g31dec44",
+    "uname_v": "#1 SMP PREEMPT Thu May 8 17:07:00 CST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9005",
+    "uname_r": "3.4.0-529386",
+    "uname_v": "#1 SMP PREEMPT Tue Jan 28 16:45:13 KST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9005",
+    "uname_r": "3.4.0-763416",
+    "uname_v": "#1 SMP PREEMPT Wed Feb 19 16:12:42 KST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9005",
+    "uname_r": "3.4.0-1618490",
+    "uname_v": "#1 SMP PREEMPT Tue May 13 05:38:16 KST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9005",
+    "uname_r": "3.4.0-1772700",
+    "uname_v": "#1 SMP PREEMPT Tue May 27 23:07:20 KST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9005",
+    "uname_r": "3.4.0-1860648",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 5 21:23:06 KST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "X9180",
+    "uname_r": "3.4.0-g1520d93-00061-g3c20559",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 6 18:54:20 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sat Apr 26 03:10:42 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue May 13 20:46:04 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri May 23 23:05:50 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 4 21:10:47 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 1 22:31:46 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 11 22:10:04 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn5918",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 17 18:48:44 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn5294",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 27 21:12:39 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn7166",
+    "uname_v": "#1 SMP PREEMPT Tue May 20 12:00:54 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn4682",
+    "uname_v": "#1 SMP PREEMPT Tue Mar 18 16:07:51 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn7217",
+    "uname_v": "#1 SMP PREEMPT Fri May 9 13:54:09 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn7391",
+    "uname_v": "#1 SMP PREEMPT Tue May 20 17:53:33 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn7920",
+    "uname_v": "#1 SMP PREEMPT Thu May 29 20:32:11 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn8759",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 3 11:52:07 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn8373",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 24 18:35:53 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn8867",
+    "uname_v": "#1 SMP PREEMPT Sat Jul 12 16:20:40 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9009",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Tue Nov 5 11:48:33 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9009",
+    "uname_r": "3.4.0-2274372",
+    "uname_v": "#1 SMP PREEMPT Thu Jan 2 20:39:29 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9009",
+    "uname_r": "3.4.0-2274372",
+    "uname_v": "#1 SMP PREEMPT Thu Jan 23 17:52:05 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9009",
+    "uname_r": "3.4.0-2274372",
+    "uname_v": "#1 SMP PREEMPT Fri Feb 7 09:50:09 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9009",
+    "uname_r": "3.4.0-2274372",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 31 18:01:37 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI B199",
+    "uname_r": "3.4.0-g3863304",
+    "uname_v": "#1 SMP PREEMPT Tue Mar 25 06:33:43 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI B199",
+    "uname_r": "3.4.0-g3863304",
+    "uname_v": "#1 SMP PREEMPT Sat Jul 5 21:50:36 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI B199",
+    "uname_r": "3.4.0-gbfaf5b3",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 8 21:37:41 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8552",
+    "uname_r": "3.4.0-1522061",
+    "uname_v": "#1 SMP PREEMPT Wed Feb 26 17:55:42 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8552",
+    "uname_r": "3.4.0-1547312",
+    "uname_v": "#1 SMP PREEMPT Thu May 29 15:24:41 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8552",
+    "uname_r": "3.4.0-1181821",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 16 12:31:18 KST 2014"
+  },
+  {
+    "vendor": "Meizu",
+    "product": "M351",
+    "uname_r": "3.4.43-user-gea3150d",
+    "uname_v": "#2 SMP PREEMPT Mon Apr 21 09:41:49 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9152P",
+    "uname_r": "3.4.0-2493474",
+    "uname_v": "#1 SMP PREEMPT Fri Feb 14 01:31:12 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9008W",
+    "uname_r": "3.4.0-1742119",
+    "uname_v": "#1 SMP PREEMPT Fri May 30 18:06:07 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L01",
+    "uname_r": "3.10.30-00078-g125ec44",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 20 21:55:44 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L01",
+    "uname_r": "3.10.30-00049-g3d2aa89",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 30 12:48:00 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L01",
+    "uname_r": "3.10.30-00050-g8d05198",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 15 12:03:25 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L01",
+    "uname_r": "3.10.30-00085-ged5dce1",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 6 06:08:01 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R831S",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 8 20:40:46 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R831S",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sun May 18 13:18:18 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R831S",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Mon May 26 23:35:04 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R831S",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 9 13:16:37 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo X3L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 4 14:46:39 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo X3L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sat Jun 14 15:58:15 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo X3L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 16 21:14:51 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3588V",
+    "uname_r": "3.4.0-2676524",
+    "uname_v": "#1 SMP PREEMPT Sat May 17 16:54:11 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7109",
+    "uname_r": "3.4.0-2540821",
+    "uname_v": "#1 SMP PREEMPT Tue Feb 18 22:01:40 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7109",
+    "uname_r": "3.4.0-2562842",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 12 11:05:21 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7109",
+    "uname_r": "3.4.0-2562842",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 3 16:55:26 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7109",
+    "uname_r": "3.4.0-2679667",
+    "uname_v": "#1 SMP PREEMPT Thu May 22 10:20:36 KST 2014"
+  },
+  {
+    "vendor": "nubia",
+    "product": "NX507J",
+    "uname_r": "3.4.0-perf-gbd8e2f8",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 9 17:44:34 CST 2014"
+  },
+  {
+    "vendor": "nubia",
+    "product": "NX507J",
+    "uname_r": "3.4.0-perf-gc6039ff",
+    "uname_v": "#1 SMP PREEMPT Sat Jul 19 10:57:12 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816D",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 15 11:25:52 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816D",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Mon Jul 21 19:25:41 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 1 17:31:14 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 11 15:45:03 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Tue May 13 04:30:08 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Sat Jul 5 22:29:33 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Xplay3S",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Fri May 23 18:38:53 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Xplay3S",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Fri May 30 12:58:29 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Xplay3S",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 16 21:45:38 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Xplay3S",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 26 17:11:47 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Xplay3S",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 23 11:31:02 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo X520L",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Fri Aug 15 11:56:39 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R2017",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sat May 24 13:28:59 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R2017",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 11 18:56:16 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R2017",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 16 19:20:35 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R2017",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 22 23:06:45 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9508V",
+    "uname_r": "3.4.0-2645471",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 15 16:34:39 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9508V",
+    "uname_r": "3.4.0-2684864",
+    "uname_v": "#1 SMP PREEMPT Thu May 29 11:08:48 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008S",
+    "uname_r": "3.4.0-2547086",
+    "uname_v": "#1 SMP PREEMPT Sat Feb 22 00:21:19 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008S",
+    "uname_r": "3.4.0-2634567",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 8 11:42:01 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008S",
+    "uname_r": "3.4.0-2634567",
+    "uname_v": "#1 SMP PREEMPT Tue May 27 16:26:06 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9300I",
+    "uname_r": "3.4.0-2450906",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 20 02:01:23 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9300I",
+    "uname_r": "3.4.0-2450906",
+    "uname_v": "#1 SMP PREEMPT Wed Feb 26 19:47:06 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9300I",
+    "uname_r": "3.4.0-2643282",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 16 18:57:36 KST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816t",
+    "uname_r": "3.4.0-g5dcfa66",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 9 21:05:08 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816t",
+    "uname_r": "3.4.0-g77ac3fc",
+    "uname_v": "#1 SMP PREEMPT Tue May 6 20:36:59 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816t",
+    "uname_r": "3.4.0-g85f30fb",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 13 20:02:47 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816t",
+    "uname_r": "3.4.0-gfcd98b7",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 23 17:28:35 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816t",
+    "uname_r": "3.4.0-g5dcfa66",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 9 21:05:08 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816t",
+    "uname_r": "3.4.0-g18e2952",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 11 13:24:06 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816t",
+    "uname_r": "3.4.0-g06194b1",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 24 23:24:24 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816t",
+    "uname_r": "3.4.0-g06194b1",
+    "uname_v": "#1 SMP PREEMPT Mon Apr 28 17:16:43 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816t",
+    "uname_r": "3.4.0-g77ac3fc",
+    "uname_v": "#1 SMP PREEMPT Tue May 6 20:37:06 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816t",
+    "uname_r": "3.4.0-ga072f6c",
+    "uname_v": "#1 SMP PREEMPT Mon May 5 21:43:20 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-g18e2952",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 11 13:24:06 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-gfde97ee",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 24 15:08:11 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-g001b437",
+    "uname_v": "#1 SMP PREEMPT Mon May 5 23:31:34 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-ga65ece7",
+    "uname_v": "#1 SMP PREEMPT Mon Jul 7 18:23:47 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-gfde97ee",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 13 22:26:23 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-g518cefc",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 7 16:11:56 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-g518cefc",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 14 21:27:52 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-g001b437",
+    "uname_v": "#1 SMP PREEMPT Mon May 5 23:10:03 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-gd6e1fb5",
+    "uname_v": "#1 SMP PREEMPT Tue Mar 11 00:42:24 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-g29bee57",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 9 15:18:53 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-gd051957",
+    "uname_v": "#1 SMP PREEMPT Thu Feb 27 22:49:38 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008V",
+    "uname_r": "3.4.0-2286610",
+    "uname_v": "#1 SMP PREEMPT Wed Dec 11 18:38:36 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008V",
+    "uname_r": "3.4.0-2364914",
+    "uname_v": "#1 SMP PREEMPT Fri Jan 10 20:31:01 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008V",
+    "uname_r": "3.4.0-2364914",
+    "uname_v": "#1 SMP PREEMPT Fri May 23 20:33:19 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008V",
+    "uname_r": "3.4.0-2364914",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 9 10:28:30 KST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R6007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sun Jun 15 21:23:08 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R6007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 4 21:58:45 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R6007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 22 23:20:52 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R6007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 6 00:18:22 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-C00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 4 09:50:51 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-C00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Sun Apr 27 01:38:10 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-C00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Tue May 13 10:57:11 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-C00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 2 01:39:03 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-C00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 7 15:29:34 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y18L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 17 10:59:00 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y18L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 2 17:54:09 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y18L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 10 11:22:33 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y18L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Mon Jul 14 16:52:58 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y18L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sat Jul 19 18:27:20 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y18L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 23 01:28:49 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y18L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 31 21:03:44 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9158P",
+    "uname_r": "3.4.0-2515678",
+    "uname_v": "#1 SMP PREEMPT Fri Feb 14 01:34:58 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9158P",
+    "uname_r": "3.4.0-2632212",
+    "uname_v": "#1 SMP PREEMPT Mon Apr 7 09:24:32 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-742022",
+    "uname_v": "#1 SMP PREEMPT Tue Feb 18 10:07:22 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00085-ged5dce1",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 6 06:08:01 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn4698",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 14 00:34:19 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn5969",
+    "uname_v": "#1 SMP PREEMPT Sat Apr 19 21:10:57 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn6160",
+    "uname_v": "#1 SMP PREEMPT Mon Apr 21 12:17:13 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn6735",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 30 12:27:27 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn6785",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 30 17:19:35 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn6842",
+    "uname_v": "#1 SMP PREEMPT Sun May 4 12:35:15 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn7391",
+    "uname_v": "#1 SMP PREEMPT Wed May 14 10:09:32 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn7391",
+    "uname_v": "#1 SMP PREEMPT Sun May 18 16:38:49 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn7391",
+    "uname_v": "#1 SMP PREEMPT Tue May 20 17:53:33 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn7859",
+    "uname_v": "#1 SMP PREEMPT Tue May 27 12:15:59 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn7842",
+    "uname_v": "#1 SMP PREEMPT Tue May 27 12:46:15 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn7920",
+    "uname_v": "#1 SMP PREEMPT Thu May 29 20:32:11 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn8373",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 24 18:35:53 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn8759",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 3 11:52:07 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn8856",
+    "uname_v": "#1 SMP PREEMPT Sat Jul 12 09:17:46 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn8867",
+    "uname_v": "#1 SMP PREEMPT Sat Jul 12 16:20:40 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn9383",
+    "uname_v": "#1 SMP PREEMPT Sun Aug 3 13:05:56 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn9409",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 5 12:02:28 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9077",
+    "uname_r": "3.4.0-svn9409",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 14 14:14:53 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "G620-L75",
+    "uname_r": "3.4.0-ga280f7d",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 18 14:58:58 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "G620-L75",
+    "uname_r": "3.4.0-g1729cba",
+    "uname_v": "#1 SMP PREEMPT Tue May 13 03:33:12 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "G620-L75",
+    "uname_r": "3.4.0-g07d7051",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 27 03:50:57 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H30-C00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 31 16:54:57 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H30-C00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 13 07:00:20 CST 2014"
+  },
+  {
+    "vendor": "CMCC",
+    "product": "M811",
+    "uname_r": "3.4.0-gac10c3f",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 6 14:06:06 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo X3L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 30 18:50:28 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00060-g10d935d",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 31 10:07:25 CST 2014"
+  },
+  {
+    "vendor": "ONEPLUS",
+    "product": "A0001",
+    "uname_r": "3.4.0-svn7952",
+    "uname_v": "#1 SMP PREEMPT Fri May 30 15:54:10 CST 2014"
+  },
+  {
+    "vendor": "ONEPLUS",
+    "product": "A0001",
+    "uname_r": "3.4.0-svn9419",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 7 20:19:47 CST 2014"
+  },
+  {
+    "vendor": "ONEPLUS",
+    "product": "A0001",
+    "uname_r": "3.4.0-svn9453",
+    "uname_v": "#1 SMP PREEMPT Mon Aug 11 14:02:06 CST 2014"
+  },
+  {
+    "vendor": "ONEPLUS",
+    "product": "A0001",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Aug 22 01:15:15 HKT 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-1928161",
+    "uname_v": "#1 SMP PREEMPT Fri Nov 29 20:16:01 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-1928161",
+    "uname_v": "#1 SMP PREEMPT Fri Nov 29 20:20:49 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-1928161",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 27 11:42:57 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-1928161",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 27 11:45:59 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-1928161",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 27 11:48:26 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-699287",
+    "uname_v": "#1 SMP PREEMPT Fri Feb 28 20:18:54 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-913788",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 26 11:14:28 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-1424588",
+    "uname_v": "#1 SMP PREEMPT Tue May 13 13:22:01 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8813D",
+    "uname_r": "3.4.0-perf-g659f716-00057-g88cec8e",
+    "uname_v": "#1 SMP PREEMPT Sat Jan 19 10:23:05 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8813D",
+    "uname_r": "3.4.0-perf-g659f716-00059-g122464c",
+    "uname_v": "#1 SMP PREEMPT Tue Jan 29 15:28:38 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8813D",
+    "uname_r": "3.4.0-perf-g659f716-00029-g9ae589a",
+    "uname_v": "#1 SMP PREEMPT Tue May 28 22:25:32 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8813D",
+    "uname_r": "3.4.0-perf-g659f716-00061-g3d12be3",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 20 16:20:41 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8813D",
+    "uname_r": "3.4.0-perf-g659f716-00062-ged09299",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 16 11:27:01 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8813D",
+    "uname_r": "3.4.0-perf-g659f716-00062-ged09299",
+    "uname_v": "#1 SMP PREEMPT Tue Nov 5 19:08:48 CST 2013"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R6007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 26 13:47:30 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R6007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 17 15:20:52 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R6007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 22 00:07:47 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R6007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 12 22:25:56 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00079-g5c59c3d",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 5 08:45:06 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00049-g3d2aa89",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 30 12:48:00 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00078-g125ec44",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 17 15:58:25 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00088-gc3cd396",
+    "uname_v": "#1 SMP PREEMPT Sat Jun 21 15:57:16 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00088-gc3cd396",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 24 17:36:56 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00060-g10d935d",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 24 05:11:54 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00050-g8fc8b125",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 2 05:11:22 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 1 22:31:46 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue May 6 03:38:41 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 17 21:51:59 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri May 30 19:26:40 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sat May 10 17:49:15 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Mon May 12 22:53:15 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R8007",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 8 23:19:02 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R831S",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Mon May 12 19:48:18 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "R831S",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 3 17:02:55 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00085-ged5dce1",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 21 05:16:06 CST 2014"
+  },
+  {
+    "vendor": "CMCC",
+    "product": "M811",
+    "uname_r": "3.4.0-g486a9c3",
+    "uname_v": "#1 SMP PREEMPT Wed May 21 04:37:01 CST 2014"
+  },
+  {
+    "vendor": "CMCC",
+    "product": "M811",
+    "uname_r": "3.4.0-g12a230a",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 4 12:15:42 CST 2014"
+  },
+  {
+    "vendor": "CMCC",
+    "product": "M811",
+    "uname_r": "3.4.0-g4efc803",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 29 19:50:30 CST 2014"
+  },
+  {
+    "vendor": "CMCC",
+    "product": "M811",
+    "uname_r": "3.4.0-g4efc803",
+    "uname_v": "#1 SMP PREEMPT Fri Aug 1 10:56:01 CST 2014"
+  },
+  {
+    "vendor": "CMCC",
+    "product": "M811",
+    "uname_r": "3.4.0-g4efc803",
+    "uname_v": "#1 SMP PREEMPT Fri Aug 15 16:03:13 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 3 10:45:18 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu May 29 10:46:47 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 14 18:02:48 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 24 02:53:24 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 13 15:40:32 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 19 16:26:17 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Dec 26 04:23:37 CST 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Jan 9 04:03:17 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Fri Feb 14 03:56:18 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 3 03:27:51 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Mon May 5 02:42:13 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 7 10:06:09 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G6-U00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 2 02:39:37 CST 2014"
+  },
+  {
+    "vendor": "nubia",
+    "product": "NX505J",
+    "uname_r": "3.4.0-perf-g288a0d1",
+    "uname_v": "#1 SMP PREEMPT Sat Aug 16 16:16:48 CST 2014"
+  },
+  {
+    "vendor": "nubia",
+    "product": "NX505J",
+    "uname_r": "3.4.0-perf-gca4a1a0",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 23 17:25:44 CST 2014"
+  },
+  {
+    "vendor": "nubia",
+    "product": "NX505J",
+    "uname_r": "3.4.0-perf-gbd8e2f8",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 9 15:15:15 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "G620-L75",
+    "uname_r": "3.4.0-g18df13b",
+    "uname_v": "#1 SMP PREEMPT Sun Jun 15 03:27:37 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816D",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 4 17:11:25 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9500",
+    "uname_r": "3.4.5-2010469",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 23 14:50:33 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008V",
+    "uname_r": "3.4.0-2364914",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 24 18:27:07 KST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y18L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Sat Aug 9 18:24:53 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9158P",
+    "uname_r": "3.4.0-2704925",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 30 17:38:31 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3588V",
+    "uname_r": "3.4.0-2720389",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 23 16:32:32 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7109",
+    "uname_r": "3.4.0-2717296",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 17 16:52:37 KST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "dior",
+    "uname_r": "3.4.0-g26e4aff-00518-g120223d",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 10 15:27:10 CST 2014"
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-943469",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 23 13:50:05 KST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "HM 1S",
+    "uname_r": "3.4.0-g6e12f86-00281-gf4b5af6",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 19 14:44:26 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9006V",
+    "uname_r": "3.4.0-1716152",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 4 21:05:29 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G9009D",
+    "uname_r": "3.4.0-1716152",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 2 17:43:27 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G900H",
+    "uname_r": "3.10.9-2109283",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 9 14:56:51 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9508",
+    "uname_r": "3.4.0-2699700",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 23 19:02:31 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3509I",
+    "uname_r": "3.4.0-2553914",
+    "uname_v": "#1 SMP PREEMPT Tue Feb 25 18:26:30 KST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q301C",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 19 15:11:34 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-N7108",
+    "uname_r": "3.0.31-2173265",
+    "uname_v": "#1 SMP PREEMPT Tue Dec 17 14:50:14 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7562C",
+    "uname_r": "3.4.5-1506028-user",
+    "uname_v": "#1 PREEMPT Fri Jan 10 10:54:42 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502I",
+    "uname_r": "3.4.0-2309486",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 7 13:13:08 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-P709",
+    "uname_r": "3.4.0-2669384",
+    "uname_v": "#1 SMP PREEMPT Fri May 9 14:59:02 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-P709",
+    "uname_r": "3.4.0-1093768",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 26 21:54:35 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N900",
+    "uname_r": "3.4.39-694641",
+    "uname_v": "#1 SMP PREEMPT Tue Mar 4 14:03:13 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N900",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Wed Mar 19 05:00:40 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H30-U10",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 3 02:40:39 CST 2014"
+  },
+  {
+    "vendor": "google",
+    "product": "Nexus 5",
+    "uname_r": "3.4.0-gd59db4e",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 17 15:16:36 PDT 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D820us",
+    "uname_r": "3.10.48",
+    "uname_v": "#1 SMP PREEMPT Sun Nov 2 22:55:29 CST 2014",
+    "selinux": 1,
+    "keyrings": 0
+  },
+  {
+    "vendor": "google",
+    "product": "Nexus 6",
+    "uname_r": "3.10.40-g14c2bda",
+    "uname_v": "#1 SMP PREEMPT Wed Oct 8 18:10:42 UTC 2014",
+    "selinux": 1,
+    "keyrings": 0
+  },
+  {
+    "vendor": "Meizu",
+    "product": "MX4 Pro",
+    "uname_r": "3.10.9-user-g2161f2d-dirty",
+    "uname_v": "#2 SMP PREEMPT Thu Dec 4 16:46:48 CST 2014",
+    "selinux": 1,
+    "keyrings": 1
+  },
+  {
+    "vendor": "Meizu",
+    "product": "MX4 Pro",
+    "uname_r": "3.10.9-user-g2dc6120-dirty",
+    "uname_v": "#2 SMP PREEMPT Thu Nov 20 21:42:56 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3559",
+    "uname_r": "3.4.0-1747370",
+    "uname_v": "#1 SMP PREEMPT Fri May 30 18:17:02 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "google",
+    "product": "Nexus S",
+    "uname_r": "3.0.31-g5894150",
+    "uname_v": "#1 PREEMPT Mon Sep 10 14:10:13 PDT 2012"
+  },
+  {
+    "vendor": "Nokia",
+    "product": "Nokia_XL_4G",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 16 16:13:58 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "N958St",
+    "uname_r": "3.10.28-gc52dac7-00296-g0987f37",
+    "uname_v": "#1 SMP PREEMPT Fri Oct 31 00:10:18 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A238t",
+    "uname_r": "3.10.17",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 27 18:41:46 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A238t",
+    "uname_r": "3.10.17",
+    "uname_v": "#1 SMP PREEMPT Thu May 29 20:26:01 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A238t",
+    "uname_r": "3.10.17",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 9 14:36:04 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A238t",
+    "uname_r": "3.10.17",
+    "uname_v": "#1 SMP PREEMPT Mon Jul 7 10:46:26 CST 2014"
+  },
+  {
+    "vendor": "Honor",
+    "product": "Che1-CL20",
+    "uname_r": "3.10.28-g240ff7f",
+    "uname_v": "#1 SMP PREEMPT Sat Oct 25 20:10:08 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G750-T20",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 31 01:22:55 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9507V",
+    "uname_r": "3.4.0-2504821",
+    "uname_v": "#1 SMP PREEMPT Thu Feb 20 14:17:25 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9507V",
+    "uname_r": "3.4.0-2491919",
+    "uname_v": "#1 SMP PREEMPT Mon Aug 18 18:11:53 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1568012",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 26 15:50:55 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G520-T10",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 10 16:52:20 HKT 2013"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI P6-C00",
+    "uname_r": "3.0.8-00776-gc2ad10f",
+    "uname_v": "#2 SMP PREEMPT Wed Jul 9 04:10:26 CST 2014"
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D316d",
+    "uname_r": "3.4.0-g80ec9c8-01201-g8a8f91a-dirty",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 16 15:27:47 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00442-gadca3bf",
+    "uname_v": "#1 SMP PREEMPT Wed Sep 26 17:32:41 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00430-gf90d193",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 30 11:40:56 cst 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00425-gdeff323",
+    "uname_v": "#1 SMP PREEMPT Fri Aug 24 13:52:47 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00376-g48027f6",
+    "uname_v": "#1 SMP PREEMPT Fri Aug 10 17:39:56 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00422-g8df0f00",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 22 13:36:18 CST 2012"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A808t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 24 13:47:07 CST 2014",
+    "selinux": 1,
+    "keyrings": 1
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7898",
+    "uname_r": "3.0.8-1223962-user",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 5 00:26:00 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7898",
+    "uname_r": "3.0.8-1319949-user",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 19 19:20:11 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7898",
+    "uname_r": "3.0.8-1223962-user",
+    "uname_v": "#1 SMP PREEMPT Wed May 22 18:57:09 KST 2013"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22iL",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Sat Jul 12 16:55:48 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A808t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 2 20:00:52 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A808t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Wed Oct 15 21:55:32 CST 2014",
+    "selinux": 1,
+    "keyrings": 1
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo S890",
+    "uname_r": "3.0.13",
+    "uname_v": "#1 SMP PREEMPT Wed Oct 31 21:20:43 CST 2012"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8702",
+    "uname_r": "3.4.0-g1e451e8-04482-g89d8c9c",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 5 13:22:32 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A808t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 24 11:54:52 CST 2014",
+    "selinux": 1,
+    "keyrings": 1
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Wed Jan 22 00:39:15 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5951",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 2 10:38:11 CST 2014"
+  },
+  {
+    "vendor": "htccn_chs_cmcc",
+    "product": "HTC T328t",
+    "uname_r": "3.0.16-g8cedd08",
+    "uname_v": "#1 PREEMPT Thu Dec 13 03:16:03 CST 2012"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8297-C00",
+    "uname_r": "3.10.28",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 16 09:32:33 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "2013022",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Fri Oct 3 23:54:11 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "C8817D",
+    "uname_r": "3.10.28-geb0eaad",
+    "uname_v": "#0 SMP PREEMPT Mon Sep 29 03:27:04 CST 2014"
+  },
+  {
+    "vendor": "acer",
+    "product": "A3-A20FHD",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Sat Aug 23 17:27:56 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8268",
+    "uname_r": "3.4.5-1573930",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 23 17:35:53 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8268",
+    "uname_r": "3.4.5-1496972",
+    "uname_v": "#1 SMP PREEMPT Fri Dec 20 18:14:02 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8268",
+    "uname_r": "3.4.5-1114026",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 5 02:03:10 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8268",
+    "uname_r": "3.4.5-1040008",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 14 12:01:14 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8268",
+    "uname_r": "3.4.5-1114026",
+    "uname_v": "#1 SMP PREEMPT Wed May 15 23:25:44 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8268",
+    "uname_r": "3.4.5-1526121",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 10 14:01:42 KST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q802T",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu May 22 20:48:03 CST 2014"
+  },
+  {
+    "vendor": "TCL",
+    "product": "TCL-P306C",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 14 20:01:33 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8297_4.4",
+    "uname_r": "3.4.67",
+    "uname_v": "#2 SMP PREEMPT Fri Oct 17 15:44:00 CST 2014"
+  },
+  {
+    "vendor": "AND",
+    "product": "M812C",
+    "uname_r": "3.4.0-ge4f1c00-00005-gcc4b1f3",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 23 19:23:35 CST 2014",
+    "selinux": 1,
+    "keyrings": 0
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D820u",
+    "uname_r": "3.10.28-ga951826",
+    "uname_v": "#1 SMP PREEMPT Fri Oct 10 04:09:37 CST 2014",
+    "selinux": 1,
+    "keyrings": 0
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo X5L",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Sun Sep 21 11:01:00 CST 2014",
+    "selinux": 1,
+    "keyrings": 0
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo X5L",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Tue Oct 7 11:12:49 CST 2014",
+    "selinux": 1,
+    "keyrings": 0
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#10 SMP PREEMPT Fri Sep 12 21:31:17 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI Y330-C00",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 4 17:11:56 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE Q507T",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 10 22:38:04 CST 2014",
+    "selinux": 1,
+    "keyrings": 1
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A358t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 5 05:37:47 AKDT 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "HM NOTE 1TD",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Fri May 9 18:15:27 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502",
+    "uname_r": "3.4.5-2705701",
+    "uname_v": "#2 SMP PREEMPT Tue Jul 1 15:18:27 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I879",
+    "uname_r": "3.4.0-1568732",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 28 15:40:49 KST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A320t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 9 12:46:28 CST 2014",
+    "selinux": 1,
+    "keyrings": 0
+  },
+  {
+    "vendor": "smartisan",
+    "product": "SM701",
+    "uname_r": "3.4.0-perf-gfe8d044-00513-g86e145e",
+    "uname_v": "#1 SMP PREEMPT Sun Sep 28 18:49:57 CST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "smartisan",
+    "product": "SM701",
+    "uname_r": "3.4.0-perf-g7f9949a-00156-g8188dfd",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 26 15:03:50 CST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "2014501",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 6 20:38:29 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "2013022",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Thu Sep 18 15:03:15 CST 2014"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X9007",
+    "uname_r": "3.4.0-svn5918",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 17 18:48:44 CST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch 2",
+    "uname_r": "3.4.0-gdf2ce8e-00191-g78ac7b4",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 10 12:55:44 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A788t",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Fri Aug 29 11:15:48 CST 2014"
+  },
+  {
+    "vendor": "Meizu",
+    "product": "MX4",
+    "uname_r": "3.10.35+",
+    "uname_v": "#1 SMP PREEMPT Sat Sep 13 15:43:33 CST 2014",
+    "selinux": 1,
+    "keyrings": 1
+  },
+  {
+    "vendor": "GiONEE",
+    "product": "GN151",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 8 22:49:31 CST 2014",
+    "selinux": 1,
+    "keyrings": 1
+  },
+  {
+    "vendor": "GiONEE",
+    "product": "GN151",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 15 22:29:17 CST 2014",
+    "selinux": 1,
+    "keyrings": 1
+  },
+  {
+    "vendor": "GiONEE",
+    "product": "GN151",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Wed Sep 10 16:03:21 CST 2014",
+    "selinux": 1,
+    "keyrings": 1
+  },
+  {
+    "vendor": "GiONEE",
+    "product": "GN151",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 22 19:04:47 CST 2014",
+    "selinux": 1,
+    "keyrings": 1
+  },
+  {
+    "vendor": "hp",
+    "product": "Slate 21",
+    "uname_r": "3.4.35",
+    "uname_v": "#1 SMP PREEMPT Tue Aug 6 15:48:27 CST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-P729",
+    "uname_r": "3.4.0-2646603",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 16 09:48:13 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9082",
+    "uname_r": "3.0.31-1329072",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 30 10:09:04 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9082",
+    "uname_r": "3.0.31-1549526",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 10 20:59:43 KST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8297W",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Thu Sep 4 09:58:37 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8297W",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 9 10:55:26 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5891Q",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Wed Jan 22 01:47:56 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5891Q",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 7 18:55:10 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5891Q",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Sat Mar 15 00:00:08 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5891Q",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Thu May 15 15:21:30 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5891Q",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 9 00:02:24 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-P709",
+    "uname_r": "3.4.0-2669384",
+    "uname_v": "#1 SMP PREEMPT Fri May 9 14:59:02 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G610-C00",
+    "uname_r": "3.4.0-perf-g8e16523",
+    "uname_v": "#1 SMP PREEMPT Tue May 6 13:45:18 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5311",
+    "uname_r": "3.4.0-ge931380",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 5 19:44:58 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502C",
+    "uname_r": "3.4.0-2529008",
+    "uname_v": "#1 SMP PREEMPT Thu Feb 13 19:49:19 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI MT7-TL10",
+    "uname_r": "3.10.30-00080-gbc30a88-dirty",
+    "uname_v": "#1 SMP PREEMPT Fri Sep 5 10:42:49 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7898I",
+    "uname_r": "3.0.8-1513295-user",
+    "uname_v": "#1 SMP PREEMPT Sun Feb 23 23:32:29 KST 2014"
+  },
+  {
+    "vendor": "SEMC",
+    "product": "LT26i",
+    "uname_r": "3.4.0+1.0.21100-313065-g1ccebb5-00166-g58b3171",
+    "uname_v": "#1 SMP PREEMPT Wed May 22 17:36:36 2013"
+  },
+  {
+    "vendor": "SEMC",
+    "product": "LT26i",
+    "uname_r": "3.0.8+1.0.21100-30145-01957-gc34b591",
+    "uname_v": "#1 SMP PREEMPT Fri Oct 5 01:14:38 2012"
+  },
+  {
+    "vendor": "SEMC",
+    "product": "LT26i",
+    "uname_r": "3.0.8+1.0.21100-30145-01926-g787c968",
+    "uname_v": "#1 SMP PREEMPT Tue May 29 20:15:09 2012"
+  },
+  {
+    "vendor": "SEMC",
+    "product": "LT26i",
+    "uname_r": "3.4.0+1.0.21100-313065-g1ccebb5-00165-g78362b4",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 24 10:01:32 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3508I",
+    "uname_r": "3.0.8-1502769-user",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 17 18:39:18 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3508I",
+    "uname_r": "3.0.8-1502769-user",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 3 18:32:20 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3508I",
+    "uname_r": "3.0.8-1502769-user",
+    "uname_v": "#1 SMP PREEMPT Sat Jan 18 19:52:04 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3508I",
+    "uname_r": "3.0.8-1502769-user",
+    "uname_v": "#1 SMP PREEMPT Mon Feb 10 19:28:05 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3508I",
+    "uname_r": "3.0.8-1502769-user",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 12 11:05:26 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3508I",
+    "uname_r": "3.0.8-1502769-user",
+    "uname_v": "#1 SMP PREEMPT Thu Jan 16 19:43:06 KST 2014"
+  },
+  {
+    "vendor": "qcom",
+    "product": "K-Touch Tou ch3",
+    "uname_r": "3.4.0-gdf2ce8e-00102-g71b9db0",
+    "uname_v": "#1 SMP PREEMPT Sat Feb 8 20:45:59 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 5891Q",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 9 00:02:24 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Wed Sep 3 18:12:14 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 10 00:25:47 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 13 22:49:24 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 26 15:57:38 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 4 22:05:16 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 20 20:19:47 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 8 17:12:08 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00139-g394fe40",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 11 11:30:28 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00126-g608ff1c",
+    "uname_v": "#1 SMP PREEMPT Sun Jun 9 11:29:37 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00146-gd6845ec",
+    "uname_v": "#1 SMP PREEMPT Fri Nov 29 11:40:24 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00134-g084f684",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 24 17:47:08 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00100-g12d36ec",
+    "uname_v": "#1 SMP PREEMPT Mon Feb 4 10:42:27 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00142-g2516f0f",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 1 09:46:38 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00107-g6c5aa70",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 29 09:49:54 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00147-gc919eb3",
+    "uname_v": "#1 SMP PREEMPT Mon Dec 16 20:39:45 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 2",
+    "uname_r": "3.4.0-g52db9c3-01077-gb91661e",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 10 17:26:53 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 2",
+    "uname_r": "3.4.0-g52db9c3-01075-g6b3e759",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 26 10:19:46 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 2",
+    "uname_r": "3.4.0-g52db9c3-01079-g71e5dac",
+    "uname_v": "#1 SMP PREEMPT Tue May 27 12:26:40 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 2",
+    "uname_r": "3.4.0-g52db9c3-01078-g396e792",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 17 15:26:11 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 2",
+    "uname_r": "3.4.0-g52db9c3-01083-gb259c10",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 19 15:26:59 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 2",
+    "uname_r": "3.4.0-g52db9c3-01084-g2886fa5",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 17 11:04:28 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 2",
+    "uname_r": "3.4.0-g52db9c3-01077-gb91661e",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 22 13:32:39 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7108",
+    "uname_r": "3.4.0-2294751",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 6 15:05:26 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7108",
+    "uname_r": "3.4.0-2689951",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 1 14:37:38 KST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo S720",
+    "uname_r": "3.0.13",
+    "uname_v": "#1 SMP PREEMPT Tue Feb 5 13:00:34 CST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9168I",
+    "uname_r": "3.4.5-2519058",
+    "uname_v": "#1 SMP PREEMPT Mon Aug 18 10:04:33 KST 2014"
+  },
+  {
+    "vendor": "SEMC",
+    "product": "LT26i",
+    "uname_r": "3.4.0+1.0.21100-313065-g1ccebb5-00193-gcbc50fc",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 23 15:55:38 2013"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8730L",
+    "uname_r": "3.4.0-g1e451e8-04486-gb987956",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 29 16:02:23 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A360t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Mon May 26 18:20:37 CST 2014",
+    "selinux": 1,
+    "keyrings": 0
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A360t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 30 13:34:17 CST 2014",
+    "selinux": 1,
+    "keyrings": 0
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A360t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Sat Jun 28 12:22:45 CST 2014",
+    "selinux": 1,
+    "keyrings": 0
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A360t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 5 21:58:45 CST 2014",
+    "selinux": 1,
+    "keyrings": 0
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502I",
+    "uname_r": "3.4.0-2305575",
+    "uname_v": "#1 SMP PREEMPT Mon Dec 23 11:39:23 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502I",
+    "uname_r": "3.4.0-2309486",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 27 09:18:16 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502I",
+    "uname_r": "3.4.0-2309486",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 27 09:18:16 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9168I",
+    "uname_r": "3.4.5-2519058",
+    "uname_v": "#1 SMP PREEMPT Wed May 21 17:18:47 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I959",
+    "uname_r": "3.4.5-2161482",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 10 17:22:03 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "SEMC",
+    "product": "LT26i",
+    "uname_r": "3.0.8+1.0.21100-30145-01956-g43358ca",
+    "uname_v": "#1 SMP PREEMPT Mon Jul 30 13:29:45 2012"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3568V",
+    "uname_r": "3.10.0-1747289",
+    "uname_v": "#2 SMP PREEMPT Tue Jul 1 11:36:34 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502I",
+    "uname_r": "3.4.0-2309486",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 2 10:30:39 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9168I",
+    "uname_r": "3.4.5-2519058",
+    "uname_v": "#1 SMP PREEMPT Sun Feb 16 20:46:52 KST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI Y600D-C00",
+    "uname_r": "3.4.0-gd2fe320-00003-g35149ea",
+    "uname_v": "#1 SMP PREEMPT Fri Apr 4 01:40:37 CST 2014"
+  },
+  {
+    "vendor": "Honor",
+    "product": "HONOR H30-L01",
+    "uname_r": "3.0.8-ged35d08",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 9 15:35:41 CST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI P6-T00",
+    "uname_r": "3.0.8-00818-g5e98b66",
+    "uname_v": "#2 SMP PREEMPT Tue Jan 14 03:10:18 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI P6-C00",
+    "uname_r": "3.0.8-00820-g7580b59",
+    "uname_v": "#2 SMP PREEMPT Sat Jan 11 04:04:57 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-N7102",
+    "uname_r": "3.0.31-2256167",
+    "uname_v": "#1 SMP PREEMPT Mon Feb 17 14:02:29 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9002",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Sat Feb 8 15:00:33 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "Samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Fri Dec 6 14:44:55 KST 2013",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Wed May 7 09:39:02 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9009",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Thu Oct 24 23:10:35 KST 2013",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#4 SMP PREEMPT Fri Jun 20 22:03:29 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 3W",
+    "uname_r": "3.4.0-ga568004-00677-g9eb30dc",
+    "uname_v": "#1 SMP PREEMPT Tue May 6 22:48:41 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7106",
+    "uname_r": "3.4.0-2275398",
+    "uname_v": "#1 SMP PREEMPT Wed May 14 12:56:49 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9508",
+    "uname_r": "3.4.0-465829",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 2 21:24:14 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9508",
+    "uname_r": "3.4.0-2106452",
+    "uname_v": "#1 SMP PREEMPT Tue Nov 19 14:36:39 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9508",
+    "uname_r": "3.4.0-2533431",
+    "uname_v": "#1 SMP PREEMPT Fri May 23 14:45:00 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008V",
+    "uname_r": "3.4.0-2364914",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 9 10:28:30 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9008V",
+    "uname_r": "3.4.0-2286610",
+    "uname_v": "#1 SMP PREEMPT Wed Dec 11 18:38:36 KST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 3",
+    "uname_r": "3.4.35-ga656ab9",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 12 15:19:39 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 2",
+    "uname_r": "3.4.0-g52db9c3-01073-gcb85193",
+    "uname_v": "#1 SMP PREEMPT Thu Dec 26 16:48:59 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "HM NOTE 1TD",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 10 18:36:25 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "2013022",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 20 11:11:36 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "2013023",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Fri May 23 17:10:51 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Xshot",
+    "uname_r": "3.4.0-perf",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 16 21:51:39 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 1 17:31:14 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI C8816",
+    "uname_r": "3.4.0+",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 1 17:31:14 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "HUAWEI G750-T01",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 3 01:16:51 HKT 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9002",
+    "uname_r": "3.4.0-1591054",
+    "uname_v": "#1 SMP PREEMPT Thu Sep 12 00:00:18 KST 2013",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9002",
+    "uname_r": "3.4.0-1591054",
+    "uname_v": "#1 SMP PREEMPT Sat Oct 12 06:38:06 KST 2013",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9002",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Thu Oct 24 23:19:26 KST 2013",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9002",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Mon Nov 4 22:44:02 KST 2013",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9002",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 21 17:20:35 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9002",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 22 18:56:00 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I679",
+    "uname_r": "3.4.0-2536604",
+    "uname_v": "#1 SMP PREEMPT Fri Feb 28 21:36:22 KST 2014",
+    "selinux": 0,
+    "keyrings": 5
+  },
+  {
+    "vendor": "htc",
+    "product": "HTC D816w",
+    "uname_r": "3.4.0-g518cefc",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 14 21:27:52 CST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9220",
+    "uname_r": "3.0.15-I9220ZCLPF-CL567385",
+    "uname_v": "#3 SMP PREEMPT Mon May 21 16:09:21 KST 2012",
+    "selinux": 0,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-N7100",
+    "uname_r": "3.0.31-2223017",
+    "uname_v": "#1 SMP PREEMPT Mon Feb 17 15:02:31 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H30-T00",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 3 03:06:24 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8705",
+    "uname_r": "3.4.39+",
+    "uname_v": "#9 SMP PREEMPT Wed Jul 2 17:10:01 CST 2014"
+  },
+  {
+    "vendor": "Sony",
+    "product": "L39h",
+    "uname_r": "3.4.0-perf-g6f5bf40",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 20 14:02:18 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "yulong",
+    "product": "Coolpad 8720L",
+    "uname_r": "3.4.39+",
+    "uname_v": "#14 SMP PREEMPT Tue Jul 22 17:50:52 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 3W",
+    "uname_r": "3.4.0-ga568004-00675-ge87eebf",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 3 11:33:26 CST 2014"
+  },
+  {
+    "vendor": "Huawei",
+    "product": "H60-L02",
+    "uname_r": "3.10.30-00050-g8d05198",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 15 12:03:25 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7108V",
+    "uname_r": "3.4.0-2543082",
+    "uname_v": "#1 SMP PREEMPT Tue Mar 4 17:50:59 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7108V",
+    "uname_r": "3.4.0-2673641",
+    "uname_v": "#1 SMP PREEMPT Fri May 16 11:39:07 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3819D",
+    "uname_r": "3.4.0-1485733-user",
+    "uname_v": "#1 SMP PREEMPT Fri Dec 13 17:00:33 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3819D",
+    "uname_r": "3.4.0-1505782-user",
+    "uname_v": "#1 SMP PREEMPT Fri Jan 17 19:10:00 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3819D",
+    "uname_r": "3.4.0-1512851-user",
+    "uname_v": "#1 SMP PREEMPT Fri Jan 24 17:14:07 KST 2014"
+  },
+  {
+    "vendor": "htccn_chs",
+    "product": "HTC Desire S",
+    "uname_r": "3.0.16-g62a67df",
+    "uname_v": "#1 PREEMPT Thu Jun 14 13:53:36 CST 2012"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S6818",
+    "uname_r": "3.0.8-1289440-user",
+    "uname_v": "#1 PREEMPT Sun Jun 30 12:20:50 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S6818",
+    "uname_r": "3.0.8-1541798-user",
+    "uname_v": "#1 PREEMPT Thu May 8 15:19:08 KST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00456-gf801d69",
+    "uname_v": "#1 SMP PREEMPT Thu Nov 8 14:39:50 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00463-gfef2058",
+    "uname_v": "#1 SMP PREEMPT Tue Jan 8 19:50:07 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00146-gd6845ec",
+    "uname_v": "#1 SMP PREEMPT Mon Nov 4 20:10:00 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00146-gfe30aa3",
+    "uname_v": "#1 SMP PREEMPT Wed Nov 20 21:03:13 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00148-g5f2009a",
+    "uname_v": "#1 SMP PREEMPT Fri Dec 27 16:52:36 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.4.0-perf-g1ccebb5-00148-g5f2009a",
+    "uname_v": "#1 SMP PREEMPT Fri Dec 27 16:52:36 CST 2013"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A360t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 10 10:08:03 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A360t",
+    "uname_r": "3.4.67",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 6 12:54:55 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A398t+",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 20 20:49:10 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A398t+",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Sun Jan 26 17:17:04 CST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A398t+",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Tue Mar 18 18:51:06 HKT 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A398t+",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 8 19:06:01 HKT 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7278U",
+    "uname_r": "3.0.8-1507487-user",
+    "uname_v": "#1 SMP PREEMPT Thu Jan 16 01:54:35 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7278U",
+    "uname_r": "3.0.8-1507487-user",
+    "uname_v": "#1 SMP PREEMPT Tue Mar 4 17:21:37 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7278U",
+    "uname_r": "3.0.8-1507487-user",
+    "uname_v": "#1 SMP PREEMPT Tue Mar 11 16:22:28 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7568I",
+    "uname_r": "3.0.8-1389278-user",
+    "uname_v": "#1 PREEMPT Thu Sep 5 10:58:02 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7568I",
+    "uname_r": "3.0.8-1389278-user",
+    "uname_v": "#1 PREEMPT Wed Nov 20 09:52:57 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7568I",
+    "uname_r": "3.0.8-1389278-user",
+    "uname_v": "#1 PREEMPT Fri May 2 15:15:25 KST 2014"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A850",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Sun Jul 28 17:54:50 CST 2013"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A850",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 8 02:19:04 CST 2013"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A850",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 14 17:38:00 CST 2013"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A850",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Mon Aug 26 16:41:27 CST 2013"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A850",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Sun Sep 15 21:51:12 CST 2013"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A850",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Sun Sep 29 17:21:15 CST 2013"
+  },
+  {
+    "vendor": "Lenovo",
+    "product": "Lenovo A850",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Sat Feb 8 18:28:34 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9082i",
+    "uname_r": "3.0.31-1503837",
+    "uname_v": "#1 SMP PREEMPT Fri Jan 17 17:14:22 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9082i",
+    "uname_r": "3.0.31-1528558",
+    "uname_v": "#1 SMP PREEMPT Sat Mar 15 12:44:45 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9082i",
+    "uname_r": "3.0.31-1535682",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 10 19:44:25 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3818",
+    "uname_r": "3.4.5-2258295",
+    "uname_v": "#1 SMP PREEMPT Thu Dec 26 21:02:56 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3818",
+    "uname_r": "3.4.5-2258295",
+    "uname_v": "#1 SMP PREEMPT Mon Feb 17 16:59:35 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3818",
+    "uname_r": "3.4.5-2258295",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 17 21:52:13 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3812",
+    "uname_r": "3.4.5-2047001",
+    "uname_v": "#1 SMP PREEMPT Wed Nov 6 03:27:12 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3812",
+    "uname_r": "3.4.5-2359578",
+    "uname_v": "#1 SMP PREEMPT Fri Dec 27 17:01:46 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3812",
+    "uname_r": "3.4.5-2474281",
+    "uname_v": "#1 SMP PREEMPT Fri Jan 24 15:17:34 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3812",
+    "uname_r": "3.4.5-2474281",
+    "uname_v": "#1 SMP PREEMPT Wed Feb 19 16:36:49 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3812",
+    "uname_r": "3.4.5-2579689",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 5 16:24:22 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3812",
+    "uname_r": "3.4.5-2623829",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 31 09:41:11 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3812",
+    "uname_r": "3.4.5-2662635",
+    "uname_v": "#1 SMP PREEMPT Fri May 2 09:10:51 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1231485",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 25 20:25:29 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1231485",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 23 23:43:37 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1377830",
+    "uname_v": "#1 SMP PREEMPT Sat Aug 24 19:05:03 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1377830",
+    "uname_v": "#1 SMP PREEMPT Mon Sep 9 20:44:52 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1377830",
+    "uname_v": "#1 SMP PREEMPT Thu Dec 12 21:11:03 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1513733",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 27 21:22:07 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1513783",
+    "uname_v": "#1 SMP PREEMPT Mon Jan 27 22:46:53 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1513733",
+    "uname_v": "#1 SMP PREEMPT Fri Feb 21 20:56:12 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1513783",
+    "uname_v": "#1 SMP PREEMPT Fri Feb 21 23:09:49 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1527940",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 13 16:23:57 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1527941",
+    "uname_v": "#1 SMP PREEMPT Thu Mar 13 16:24:48 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I869",
+    "uname_r": "3.4.0-1527941",
+    "uname_v": "#1 SMP PREEMPT Mon Apr 14 17:40:35 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8558",
+    "uname_r": "3.4.5-1054187",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 9 11:07:52 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8558",
+    "uname_r": "3.4.5-1141724",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 1 22:46:23 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8558",
+    "uname_r": "3.4.5-1542122",
+    "uname_v": "#1 SMP PREEMPT Fri Aug 30 08:43:03 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8558",
+    "uname_r": "3.4.5-1699723",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 17 10:17:03 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8558",
+    "uname_r": "3.4.5-2048505",
+    "uname_v": "#1 SMP PREEMPT Mon Nov 4 08:17:50 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9002",
+    "uname_r": "3.4.0-1591054",
+    "uname_v": "#1 SMP PREEMPT Thu Sep 12 00:00:18 KST 2013",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9002",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Fri Jan 3 11:45:46 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9002",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Sat Feb 8 15:00:33 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9002",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Tue Apr 1 10:41:53 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE G717C",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 26 17:18:09 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE G717C",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Wed May 14 15:16:27  CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE G717C",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Wed Mar 19 16:09:23  CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE G717C",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Sat Feb 22 18:06:00  CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE G717C",
+    "uname_r": "3.4.39",
+    "uname_v": "#2 SMP PREEMPT Mon Apr 28 09:14:23 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE G717C",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 13 12:39:20 CST 2014"
+  },
+  {
+    "vendor": "ZTE",
+    "product": "ZTE G717C",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 10 16:46:19 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Fri Jan 3 11:57:13 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-1590669",
+    "uname_v": "#1 SMP PREEMPT Sat Oct 12 05:11:24 KST 2013"
+  },
+  {
+    "vendor": "htc_asia_tw",
+    "product": "HTC Sensation Z710e",
+    "uname_r": "3.0.16-gc61d866",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 9 14:55:07 CST 2012"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Fri Nov 15 14:22:43 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Tue Nov 5 17:52:14 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-1973843",
+    "uname_v": "#1 SMP PREEMPT Fri Dec 6 14:44:55 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9118",
+    "uname_r": "3.4.5-2160627",
+    "uname_v": "#2 SMP PREEMPT Sun Nov 24 00:47:11 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9118",
+    "uname_r": "3.4.5-2160627",
+    "uname_v": "#2 SMP PREEMPT Wed Dec 4 21:03:52 KST 2013"
+  },
+  {
+    "vendor": "htc_asia_tw",
+    "product": "HTC Sensation Z710e",
+    "uname_r": "3.0.16-g31a4fc7",
+    "uname_v": "#1 SMP PREEMPT Mon May 28 15:06:07 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00464-ga326fac",
+    "uname_v": "#1 SMP PREEMPT Tue Jan 8 11:46:49 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00464-ga326fac",
+    "uname_v": "#1 SMP PREEMPT Tue Jan 8 11:46:49 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00430-gf90d193",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 30 11:40:56 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00431-gc7e12a7",
+    "uname_v": "#1 SMP PREEMPT Sat Sep 8 15:23:57 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00257-g3f2aafd",
+    "uname_v": "#1 SMP PREEMPT Wed Apr 18 11:54:02 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00324-g88d01df",
+    "uname_v": "#1 SMP PREEMPT Thu May 31 11:44:54 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00300-gef5d7f5",
+    "uname_v": "#1 SMP PREEMPT Thu May 17 11:44:16 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00407-g0f2149e",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 2 12:54:56 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00275-gc3da87b",
+    "uname_v": "#1 SMP PREEMPT Thu Apr 26 15:11:03 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00463-g6de62aa",
+    "uname_v": "#1 SMP PREEMPT Wed Dec 26 12:02:14 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00456-gf801d69",
+    "uname_v": "#1 SMP PREEMPT Thu Nov 8 14:39:50 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00457-g8e42601",
+    "uname_v": "#1 SMP PREEMPT Thu Nov 8 11:41:44 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00445-g35e37a3",
+    "uname_v": "#1 SMP PREEMPT Thu Oct 25 14:45:31 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00444-g3e63096",
+    "uname_v": "#1 SMP PREEMPT Sat Oct 13 11:20:59 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00443-g89cb076",
+    "uname_v": "#1 SMP PREEMPT Thu Sep 27 11:41:26 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00433-ge070407",
+    "uname_v": "#1 SMP PREEMPT Tue Sep 18 21:17:12 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00430-gf90d193",
+    "uname_v": "#1 SMP PREEMPT Thu Aug 30 11:40:56 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00352-gfafbcce",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 29 15:08:02 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00339-gee5bc30",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 15 11:44:20 CST 2012"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00463-gfef2058",
+    "uname_v": "#1 SMP PREEMPT Tue Jan 8 19:50:07 CST 2013"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI-ONE Plus",
+    "uname_r": "3.0.8-perf-00459-g59d1994",
+    "uname_v": "#1 SMP PREEMPT Mon Dec 17 14:11:53 CST 2012"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP  PREEM PT Tue Jun 10 00:25:47 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP  PREEM PT Fri Jun 13 22:49:24 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP  PREEM PT Thu Jun 26 15:57:38 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP  PREEM PT Fri Jul 4 22:05:16 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP  PREEM PT Fri Jun 20 20:19:47 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP  PREEM PT Tue Jul 8 17:12:08 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Mon Aug 25 16:37:48 CST 2014"
+  },
+  {
+    "vendor": "vivo",
+    "product": "vivo Y22L",
+    "uname_r": "3.4.0",
+    "uname_v": "#1 SMP PREEMPT Mon Jul 14 12:51:27 CST 2014"
+  },
+  {
+    "vendor": "Coolpad",
+    "product": "Coolpad 8702",
+    "uname_r": "3.4.0-g1e451e8-04478-g4f98162",
+    "uname_v": "#1 SMP PREEMPT Wed May 21 05:47:25 CST 2014"
+  },
+  {
+    "vendor": "htccn_chs_cu",
+    "product": "HTC Z710e",
+    "uname_r": "3.0.16-gc764bfb",
+    "uname_v": "#1 SMP PREEMPT Mon Mar 19 19:16:05 CST 2012"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X907",
+    "uname_r": "3.0.8-perf-svn5132",
+    "uname_v": "5184 SMP PREEMPT Wed Aug 8 20:47:43 HKT 2012"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X907",
+    "uname_r": "3.0.8-perf-svn3913",
+    "uname_v": "4030 SMP PREEMPT Sat Jun 30 12:04:30 HKT 2012"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X907",
+    "uname_r": "3.0.8-perf-svn6289",
+    "uname_v": "6289 SMP PREEMPT Fri Aug 31 12:15:39 HKT 2012"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X907",
+    "uname_r": "3.0.8-perf-svn7917",
+    "uname_v": "8011 SMP PREEMPT Fri Dec 14 18:47:11 CST 2012"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X907",
+    "uname_r": "3.0.8-perf-svn4889",
+    "uname_v": "4911 SMP PREEMPT Sun Jul 29 16:51:51 HKT 2012"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X907",
+    "uname_r": "3.0.8-perf-svn7917",
+    "uname_v": "8008 SMP PREEMPT Fri Nov 30 11:56:48 CST 2012"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X907",
+    "uname_r": "3.0.8-perf-svn5547",
+    "uname_v": "5578 SMP PREEMPT Fri Aug 17 11:08:57 HKT 2012"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X907",
+    "uname_r": "3.0.8-perf-svn7829",
+    "uname_v": "7841 SMP PREEMPT Fri Oct 26 17:30:34 HKT 2012"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X907",
+    "uname_r": "3.0.8-perf-svn4254",
+    "uname_v": "4277 SMP PREEMPT Wed Jul 18 15:21:16 HKT 2012"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X907",
+    "uname_r": "3.0.8-perf-svn8062",
+    "uname_v": "8070 SMP PREEMPT Wed Jan 30 15:41:42 CST 2013"
+  },
+  {
+    "vendor": "OPPO",
+    "product": "X907",
+    "uname_r": "3.0.8-perf-svn8065",
+    "uname_v": "8079 SMP PREEMPT Tue Feb 5 23:20:27 CST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502",
+    "uname_r": "3.4.5-1682724",
+    "uname_v": "#2 SMP PREEMPT Wed Sep 18 01:03:08 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502",
+    "uname_r": "3.4.5-1682724",
+    "uname_v": "#2 SMP PREEMPT Tue Sep 24 19:23:39 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502",
+    "uname_r": "3.4.5-2071059",
+    "uname_v": "#2 SMP PREEMPT Wed Nov 6 15:07:34 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502",
+    "uname_r": "3.4.5-2616470",
+    "uname_v": "#2 SMP PREEMPT Tue Mar 25 18:07:53 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502",
+    "uname_r": "3.4.5-2616470",
+    "uname_v": "#2 SMP PREEMPT Wed Apr 2 20:15:42 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502",
+    "uname_r": "3.4.5-2677876",
+    "uname_v": "#2 SMP PREEMPT Mon May 19 19:45:25 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7278",
+    "uname_r": "3.0.8-1484839-user",
+    "uname_v": "#1 PREEMPT Sun Dec 15 04:07:29 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7278",
+    "uname_r": "3.0.8-1484839-user",
+    "uname_v": "#1 PREEMPT Tue Dec 24 15:31:00 KST 2013"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7278",
+    "uname_r": "3.0.8-1484839-user",
+    "uname_v": "#1 PREEMPT Mon Jan 6 16:54:40 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7278",
+    "uname_r": "3.0.8-1513107-user",
+    "uname_v": "#1 PREEMPT Mon Jan 27 21:40:29 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7278",
+    "uname_r": "3.0.8-1515694-user",
+    "uname_v": "#1 PREEMPT Wed Feb 5 14:35:16 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7278",
+    "uname_r": "3.0.8-1521478-user",
+    "uname_v": "#1 PREEMPT Wed Mar 12 15:00:13 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7278",
+    "uname_r": "3.0.8-1532668-user",
+    "uname_v": "#1 PREEMPT Mon Mar 31 16:10:42 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9118",
+    "uname_r": "3.4.5-2599209",
+    "uname_v": "#2 SMP PREEMPT Fri Mar 14 12:09:55 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3502",
+    "uname_r": "3.4.5-2616470",
+    "uname_v": "#2 SMP PREEMPT Wed Apr 2 20:15:42 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I679",
+    "uname_r": "3.4.0-2536604",
+    "uname_v": "#1 SMP PREEMPT Wed Feb 19 23:52:25 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I679",
+    "uname_r": "3.4.0-2599255",
+    "uname_v": "#1 SMP PREEMPT Fri Mar 14 12:51:37 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7898I",
+    "uname_r": "3.0.8-1513295-user",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 25 20:07:57 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-N9006",
+    "uname_r": "3.4.0-943469",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 6 16:50:46 KST 2014"
+  },
+  {
+    "vendor": "amsung",
+    "product": "GT-I9118",
+    "uname_r": "3.4.5-2701062",
+    "uname_v": "#2 SMP PREEMPT Wed Jun 25 11:36:17 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9158",
+    "uname_r": "3.4.0-2701085",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 25 12:28:42 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I679",
+    "uname_r": "3.4.0-2699439",
+    "uname_v": "#1 SMP PREEMPT Mon Jun 23 15:41:05 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-S7278U",
+    "uname_r": "3.0.8-1507487-user",
+    "uname_v": "#1 SMP PREEMPT Thu Jun 26 09:34:28 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3818",
+    "uname_r": "3.4.5-2258295",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 24 09:28:14 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3812",
+    "uname_r": "3.4.5-2700438",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 24 15:43:49 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8558",
+    "uname_r": "3.4.5-2700363",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 24 17:01:17 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I8558",
+    "uname_r": "3.4.5-2707677",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 3 11:06:36 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G3819D",
+    "uname_r": "3.4.0-1550751-user",
+    "uname_v": "#1 SMP PREEMPT Tue Jun 17 11:29:23 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SCH-I679",
+    "uname_r": "3.4.0-2710173",
+    "uname_v": "#1 SMP PREEMPT Mon Jul 7 21:07:15 KST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7108V",
+    "uname_r": "3.4.0-2701099",
+    "uname_v": "#1 SMP PREEMPT Wed Jun 25 12:56:49 KST 2014",
+    "selinux": 1,
+    "keyrings": 5
+  },
+  {
+    "vendor": "samsung",
+    "product": "GT-I9508",
+    "uname_r": "3.4.0-2136245",
+    "uname_v": "#1 SMP PREEMPT Fri Jul 4 20:05:51 KST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "2013023",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Sat Aug 9 00:03:37 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "2013022",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Sat Aug 9 00:04:30 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 2",
+    "uname_r": "3.4.0-g52db9c3-01084-gc1b2a13",
+    "uname_v": "#1 SMP PREEMPT Sun Jul 27 10:25:19 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 3W",
+    "uname_r": "3.4.0-g26e4aff-00900-ga93b357",
+    "uname_v": "#1 SMP PREEMPT Thu Jul 24 15:45:58 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "HM NOTE 1TD",
+    "uname_r": "3.4.39",
+    "uname_v": "#1 SMP PREEMPT Wed Aug 6 14:45:54 CST 2014"
+  },
+  {
+    "vendor": "samsung",
+    "product": "SM-G7106",
+    "uname_r": "3.4.0-2275398",
+    "uname_v": "#1 SMP PREEMPT Tue Jul 1 19:59:55 KST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "2013022",
+    "uname_r": "3.4.5",
+    "uname_v": "#1 SMP PREEMPT Wed Jul 2 11:17:26 CST 2014"
+  },
+  {
+    "vendor": "Xiaomi",
+    "product": "MI 3W",
+    "uname_r": "3.4.0-g9b3b7b3b-00763-g3de75e4",
+    "uname_v": "#1 SMP PREEMPT Fri Jun 20 13:55:29 CST 2014"
+  }
+]

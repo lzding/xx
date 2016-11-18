@@ -1,0 +1,41 @@
+<% if admin_signed_in? %>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+
+        <li class="dropdown">
+          <!--<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">方案管理 <span class="caret"></span></a>-->
+          <!--<ul class="dropdown-menu">-->
+          <!--</ul>-->
+            <li><%= link_to '方案管理', root_files_path %></li>
+            <li><%= link_to '工具类命', tools_path %></li>
+            <li><%= link_to 'Componments 管理', components_path %></li>
+            <li><%= link_to 'Global 管理', globals_path %></li>
+        </li>
+        <li><%= link_to '客户渠道管理', customs_path %></li>
+        <li><%= link_to '机型适配管理', phones_path %></li>
+        <!--<li class="dropdown">-->
+          <!--<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Upgrade <span class="caret"></span></a>-->
+          <!--<ul class="dropdown-menu">-->
+          <!--</ul>-->
+        <!--</li>-->
+            <li><%= link_to 'Upgrade', refs_path %></li>
+            <li><%= link_to 'Plugins', plugins_path %></li>
+        <!--<li class="dropdown">-->
+          <!--<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">报表 <span class="caret"></span></a>-->
+          <!--<ul class="dropdown-menu">-->
+          <!--</ul>-->
+        <!--</li>-->
+            <li><%= link_to '调用统计', custom_reports_path %></li>
+            <li><%= link_to '失败机型统计', failed_top_path %></li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Profiles <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><%= link_to 'Data Queue', sidekiq_web_path %></li>
+            <li><%= link_to "更改密码", edit_admin_registration_path %></li>
+            <li><%= link_to "退出", destroy_admin_session_path, method: :delete %></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+<% end %>

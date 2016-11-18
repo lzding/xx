@@ -1,0 +1,13 @@
+<%= simple_form_for(@tool) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.input :file_name, label:'文件名称（不区分大小写）:' %>
+    <%= f.input :enabled, label: '是否启用（选中启用，不选禁用）:' %>
+  </div>
+
+  <div class="form-actions">
+    <%= f.button :submit, "提交", class: 'btn btn-info'%>
+    <%= link_to '返回', tools_path , class:'btn btn-default'%>
+  </div>
+<% end %>

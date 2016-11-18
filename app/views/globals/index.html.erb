@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<h3>Globals</h3>
+<table class="table table-hover" style="table-layout: fixed;word-wrap: break-word;">
+
+  <thead>
+    <tr>
+      <!--<th class="wp7">名字</th>-->
+      <th >文件</th>
+      <th class="wp7">是否启用</th>
+      <th class="wp13">Sdk Version</th>
+      <th class="wp27">渠道</th>
+      <th colspan="2" class="wp13"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @globals.each do |global| %>
+      <tr>
+        <!--<td><%= global.name %></td>-->
+        <td><%=link_to  global.name, global.file.to_s %></td>
+        <td><%= global.status %></td>
+        <td><%= global.sdk_api_version %></td>
+        <td><%= global.channel_label %></td>
+        <td><%= link_to '编辑', edit_global_path(global), :class => 'btn btn-info btn-xs' %></td>
+        <td><%= link_to '删除', global, method: :delete, data: { confirm: ' 确认操作？' } , :class => 'btn btn-default btn-xs' %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to '添加 Global', new_global_path, class: 'btn btn-success' %>

@@ -1,0 +1,34 @@
+<%- model_class = Company -%>
+<p id="notice"><%= notice %></p>
+
+
+<h2 class="sub-header">游戏公司</h2>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>公司名称</th>
+      <th>图片</th>
+      <th colspan="1">操作</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @companies.each_with_index do |company, index| %>
+      <tr>
+        <td><%= link_to index+1 ,company %></td>
+        <td><%= link_to company.title,company %></td>
+        <td><%=image_tag company.picture, size:'50x50' %></td>
+        <td><%= company.picture %></td>
+        <td>
+         <%= link_to '编辑', edit_company_path(company), :class => 'btn btn-default btn-xs'%>
+        <%= link_to '删除', company, method: :delete, data: { confirm: '确定要删除？' }, class: "btn btn-xs btn-danger" %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= paginate @companies %>
+
+<%= link_to '添加新公司', new_company_path, class: "btn btn-success" %>

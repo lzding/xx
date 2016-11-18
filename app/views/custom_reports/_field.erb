@@ -1,0 +1,5 @@
+<%if @selected_fields.include? field %>
+<li data-value="<%=field%>" class="active"><%= field.gsub('_','.') %></li>
+<% else %>
+    <li data-value="<%=field%>"><%= field.gsub('_','.') %></li>
+<%end%>

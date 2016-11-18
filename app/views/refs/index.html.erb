@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th>Version</th>
+      <th>Channel</th>
+      <th>文件</th>
+      <th colspan="2">操作</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @refs.each do |ref| %>
+      <tr>
+        <td><%= ref.version %></td>
+        <td><%= ref.channel %></td>
+        <td><%= ref.exec_file %></td>
+        <td><%= link_to '编辑', edit_ref_path(ref), :class => 'btn btn-info btn-xs'  %></td>
+        <td><%= link_to '删除', ref, method: :delete, data: { confirm: '确认删除？' }, :class => 'btn btn-default btn-xs'  %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to '添加Upgrade', new_ref_path, :class => 'btn btn-success'%>
+
+
+

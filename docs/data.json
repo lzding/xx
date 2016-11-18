@@ -1,0 +1,47 @@
+{
+  "downloadCnt": 6,   -- 当前游戏下载数量
+  "detail_pics": [  -- 游戏详细信息，图片集合
+  "http://7mnmgb.com1.z0.glb.clouddn.com/1529835288aa90e3ea892d4e6d8b1f5d?imageView/1/w/180/h/180",
+  "http://7mnmgb.com1.z0.glb.clouddn.com/1529835288aa90e3ea892d4e6d8b1f5d?imageView/1/w/180/h/180"
+],
+  "detail": { -- 游戏详细信息描述；
+  "editor": "bbao", -- 有作者名的，就当做"小编"处理。小编icon，我没返回，前端打包一组图片？
+  "editor_pic": "http://www.ggzs.me/forum/uc_server/avatar.php?uid=155786&size=middle", -- 小编头像
+  "content": "超神战记》是以英雄联盟为原型二次创新的卡牌养成对战手游，通过超精美的画风和超高的经典玩法，达成召唤师", --  小编编辑内容
+  "crack_info": "这是 树栋跟小生破解相关的内容说明", -- 破解信息，我们关于破解信息的描述，这里面可用用<p>标签进行分段
+  "test_cellphone_list": "测试机型…什么形式返回", -- 测试机器型号，现在是一个大字符串返回，先根据","进行拆分。
+  "comefrom": "box平台" -- 游戏来源；
+},
+"companyOtherGames": [  -- 其他厂商游戏列表
+{
+"game_id": 1,  -- 游戏id
+"downloadCnt": 6, -- 下载数量
+"title": "星之后裔",  -- 游戏名称
+"pic": "http://7mnmgb.com1.z0.glb.clouddn.com/1529835288aa90e3ea892d4e6d8b1f5d?imageView/1/w/180/h/180" -- 图片
+}
+],
+"state": "ok",
+"info": { -- 当前游戏的基本信息
+"id": 1,  -- 游戏id
+"title": "星之后裔", -- 游戏名称
+"size": 17888888, --  游戏大小
+"gametype": "动作类", -- 类型
+"icon": "http://7mnmgb.com1.z0.glb.clouddn.com/1529835288aa90e3ea892d4e6d8b1f5d?imageView/1/w/180/h/180", -- icon小图标，在详细信息不显示。可用不读
+"picture": "http://7mnmgb.com1.z0.glb.clouddn.com/1529835288aa90e3ea892d4e6d8b1f5d?imageView/1/w/180/h/180", -- 游戏图片
+"content": "游戏文本内容",  — 游戏描述
+"need_internet": 1, — tag 信息，是否需要网络
+"createtime": "2015-08-08", — 创建时间
+"updatetime": 1439054144000, — 更新时间
+"company_id": 1,  — 厂商（最终结果是厂商名)
+"version": "1.0.0", — 当前版本号
+"state": 1, — 这个可用先忽略
+"need_google": 1, — 是否需要gogole   0：需要google， 1：不需要google
+"free": 1, — 是否有内购     0：需要内购，1：不需要内购
+"need_vpn": 1, — 是否需要vpn  0：不需要；1：需要
+"Chinese": 1, — 是否汉化  0：未汉化，1：已汉化
+"download_url": "http://pan.baidu.com/s/1sj5g2Od",  — 下载地址
+"download_url_second": "http://pan.baidu.com/s/1sj5g2Od", — 下载地址
+"download_url_share": "http://pan.baidu.com/s/1sj5g2Od",  — 分享下载地址
+"share_url_pwd": "" — 分享密码
+}
+}

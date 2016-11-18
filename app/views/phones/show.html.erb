@@ -1,0 +1,38 @@
+<%if notice.present? %>
+<p id="notice" class="alert alert-info"><%= notice %></p>
+<%end%>
+<p>
+  <strong>vendor:</strong>
+  <%= @phone.vendor %>
+</p>
+
+<p>
+  <strong>product_model:</strong>
+  <%= @phone.product_model %>
+</p>
+
+<p>
+  <strong>linux_version:</strong>
+  <%= @phone.linux_version %>
+</p>
+
+<p>
+  <strong>build_date:</strong>
+  <%= @phone.build_date %>
+</p>
+
+<p>
+  <strong>utc_date:</strong>
+  <%= @phone.utc_date %>
+</p>
+<p>
+  <strong> 成功匹配次数:</strong>
+  <%= @phone.count %>
+</p>
+<p>
+  <strong>方案:</strong>
+  <%= link_to @phone.root_file.source_name,  root_file_path(@phone.root_file)%></p>
+
+<%= link_to '继续添加', new_phone_path ,:class => 'btn btn-success'%>
+<%= link_to '编辑', edit_phone_path(@phone),:class => 'btn btn-info' %>
+<%= link_to '返回', phones_path ,:class => 'btn btn-default'%>

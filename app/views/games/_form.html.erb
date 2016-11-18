@@ -1,0 +1,38 @@
+<%= simple_form_for @game do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs" style="width: 50%">
+    <%= f.input :title, label: '游戏名称' %>
+    <%= f.input :size, label: '游戏大小' %>
+    <%= f.input :gametype, label: '游戏类型' %>
+    <%= f.input :icon, label: '小图标' %>
+    <%= f.input :picture,label: '游戏图片' %>
+    <%= f.input :content, label: '游戏描述', as: :text %>
+    <%= f.association :company,label: '厂商' %>
+    <%= f.input :version, label: '当前版本号' %>
+    <%= f.input :need_internet, collection: [[1,'是'], [0,'否']],label_method: :last, value_method: :first, label: '是否需要网络', as: :radio_buttons %>
+    <%= f.input :need_google, collection: [[1,'是'], [0,'否']],label_method: :last, value_method: :first, label: '是否需要gogole', as: :radio_buttons %>
+    <%= f.input :free, collection: [[1,'是'], [0,'否']],label_method: :last, value_method: :first, label: '是否有内购', as: :radio_buttons %>
+    <%= f.input :need_vpn, collection: [[1,'是'], [0,'否']],label_method: :last, value_method: :first, label:'是否需要vpn', as: :radio_buttons %>
+    <%= f.input :Chinese, collection: [[1,'是'], [0,'否']],label_method: :last, value_method: :first, label: '是否汉化', as: :radio_buttons %>
+    <%= f.input :download_url, label: '下载地址1' %>
+    <%= f.input :download_url_second, label: '下载地址2' %>
+    <%= f.input :download_url_share, label: '分享下载地址' %>
+    <%= f.input :share_url_pwd, label: '分享密码' %>
+  </div>
+
+    <%= f.simple_fields_for :game_detail do |gd| %>
+        <%= gd.input :editor %>
+        <%= gd.input :editor_pic, as: :file %>
+        <%= gd.input :content %>
+        <%= gd.input :crack_info %>
+        <%= gd.input :test_cellphone_list %>
+        <%= gd.input :comefrom %>
+    <% end %>
+    <%= file_field_tag 'game_images[]', type: :file, multiple: true %>
+
+  <div class="form-actions">
+    <%= f.button :submit, "提交", class: 'btn btn-info'%>
+    <%= link_to '返回', games_path, class:'btn btn-default' %>
+  </div>
+<% end %>

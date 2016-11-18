@@ -1,0 +1,23 @@
+<%= simple_form_for(@phone_model) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.input :ro_product_brand %>
+    <%= f.input :ro_product_model %>
+    <%= f.input :ro_product_name %>
+    <%= f.input :ro_build_version_release %>
+    <%= f.input :ro_build_version_sdk %>
+    <%= f.input :ro_build_date_utc %>
+    <%= f.input :ro_build_date %>
+    <%= f.input :ro_board_platform %>
+    <%= f.input :ro_hardware %>
+    <%= f.input :ro_product_cpu_abi %>
+    <%= f.input :proc_version %>
+    <%= f.input :proc_meminfo %>
+    <%= f.input :proc_cpuinfo %>
+  </div>
+
+  <div class="form-actions">
+    <%= f.button :submit %>
+  </div>
+<% end %>

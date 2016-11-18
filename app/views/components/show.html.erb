@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @component.name %>
+</p>
+
+<p>
+  <strong>File:</strong>
+  <%= @component.file %>
+</p>
+
+<p>
+  <strong>Category:</strong>
+  <%= @component.category %>
+</p>
+
+<p>
+  <strong>Sdk api version:</strong>
+  <%= @component.sdk_api_version %>
+</p>
+
+<p>
+  <strong>File hex:</strong>
+  <%= @component.file_hex %>
+</p>
+
+<p>
+  <strong>File directory:</strong>
+  <%= @component.file_directory %>
+</p>
+
+<p>
+  <strong>Status:</strong>
+  <%= @component.status %>
+</p>
+
+<%= link_to 'Edit', edit_component_path(@component) %> |
+<%= link_to 'Back', components_path %>

@@ -1,0 +1,16 @@
+<%= simple_form_for(@phone) do |f| %>
+  <%= f.error_notification %>
+  <div class="form-inputs">
+    <%= f.input :vendor,label: 'vendor' %>
+    <%= f.input :product_model,label: 'product' %>
+    <%= f.input :linux_version,label: 'build_version' %>
+    <%= f.input :build_date,label: 'uname_v' %>
+    <%= f.input :utc_date,label: 'utc_date' %>
+    <%= f.input :source_name, as: :hidden %>
+    <%= f.association :root_file, collection: RootFile.enabled,label_method: :source_name, value_method: :id, include_blank: false%>
+  </div>
+
+  <div class="form-actions">
+    <%= f.button :submit, "提交", class: 'btn btn-info'%>
+  </div>
+<% end %>

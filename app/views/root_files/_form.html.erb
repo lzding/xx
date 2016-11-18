@@ -1,0 +1,25 @@
+<%= simple_form_for(@root_file) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.input :source_name,label: '备注' %>
+    <%= f.input :file, label: '执行文件',as: :file %>
+    <%= @root_file.file %>
+    <br/>
+    <br/>
+    <%= f.input :execute_params, label: '默认执行参数' %>
+    <%= f.input :keyword, label: ' 关键字（用来做通用类型的精确匹配）' %>
+    <%= f.label 'SDK API 版本(<21 非 PIE，>=21PIE):'%><p>
+    <%= f.select :sdk_api_version, pie_for_select %>
+  </p>
+    <br>
+    <%= f.label '方案类型:'%>
+    <%= f.select :category, categories_for_select %>
+    <%= f.input :sort_num, label: '方案优先级（整数，从小到大。1的优先级最高）' %>
+    <%= f.input :status, as: :boolean, checked_value: true, unchecked_value: false ,label: '是否启用',hint: '选中启用，留空禁用'%>
+  </div>
+
+  <div class="form-actions">
+    <%= f.button :submit, "提交", class: 'btn btn-info'%>
+  </div>
+<% end %>

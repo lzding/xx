@@ -1,0 +1,51 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Phone Models</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Ro product brand</th>
+      <th>Ro product model</th>
+      <th>Ro product name</th>
+      <th>Ro build version release</th>
+      <th>Ro build version sdk</th>
+      <th>Ro build date utc</th>
+      <th>Ro build date</th>
+      <th>Ro board platform</th>
+      <th>Ro hardware</th>
+      <th>Ro product cpu abi</th>
+      <th>Proc version</th>
+      <th>Proc meminfo</th>
+      <th>Proc cpuinfo</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @phone_models.each do |phone_model| %>
+      <tr>
+        <td><%= phone_model.ro_product_brand %></td>
+        <td><%= phone_model.ro_product_model %></td>
+        <td><%= phone_model.ro_product_name %></td>
+        <td><%= phone_model.ro_build_version_release %></td>
+        <td><%= phone_model.ro_build_version_sdk %></td>
+        <td><%= phone_model.ro_build_date_utc %></td>
+        <td><%= phone_model.ro_build_date %></td>
+        <td><%= phone_model.ro_board_platform %></td>
+        <td><%= phone_model.ro_hardware %></td>
+        <td><%= phone_model.ro_product_cpu_abi %></td>
+        <td><%= phone_model.proc_version %></td>
+        <td><%= phone_model.proc_meminfo %></td>
+        <td><%= phone_model.proc_cpuinfo %></td>
+        <td><%= link_to 'Show', phone_model %></td>
+        <td><%= link_to 'Edit', edit_phone_model_path(phone_model) %></td>
+        <td><%= link_to 'Destroy', phone_model, method: :delete, data: { confirm: '确认操作？' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Phone model', new_phone_model_path %>

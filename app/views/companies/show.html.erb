@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+          <td>Title:</td>
+          <td>Picture:</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td></td>
+        </tr>
+    </tbody>
+</table>
+
+  <strong></strong>
+  <%= @company.title %>
+</p>
+
+<p>
+  <strong>Picture:</strong>
+  <%= @company.picture %>
+</p>
+
+<%= link_to 'Edit', edit_company_path(@company) %> |
+<%= link_to 'Back', companies_path %>

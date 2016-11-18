@@ -1,0 +1,26 @@
+<%- model_class = GameType -%>
+
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong><%= model_class.human_attribute_name(:title)%>:</strong>
+  <br>
+  <%= @game_type.title %>
+</p>
+
+<p>
+  <strong><%= model_class.human_attribute_name(:picture) %>:</strong>
+  <br>
+  <%= @game_type.picture %>
+</p>
+
+<p>
+  <strong><%= model_class.human_attribute_name(:special_type) %>:</strong>  <br>
+
+  <%=humanlizer_int @game_type.special_type %>
+</p>
+
+<%= link_to t('.edit', :default => t("helpers.links.edit")),
+            edit_game_type_path(@game_type), :class => 'btn btn-info' %>
+<%= link_to t('.cancel', :default => t("helpers.links.cancel")),
+            game_types_path, :class => 'btn btn-default' %>

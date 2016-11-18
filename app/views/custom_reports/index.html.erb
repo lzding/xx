@@ -1,0 +1,22 @@
+<%= javascript_include_tag 'highcharts.js'%>
+<div style="padding-left: 45px;padding-bottom: 20px;">
+  <div class="btn-group">
+    <button type="button" class="btn btn-info">点击切换日期</button>
+    <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <span class="caret"></span>
+    </button>
+    <div >
+    </div>
+    <ul class="dropdown-menu">
+      <% @days.each do |day|%>
+          <li <%= 'class = "disabled"' if day == @day%>><%=link_to day,custom_reports_index_path(day: day)%></li>
+      <%end%>
+    </ul>
+  </div>
+</div>
+<% if @reports.blank?%>
+    <h1>暂无今日数据</h1>
+<%else%>
+    <%data = render_report%>
+    <%= render 'pie', {data:data}%>
+<%end%>

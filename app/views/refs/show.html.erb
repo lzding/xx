@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Version:</strong>
+  <%= @ref.version %>
+</p>
+
+<p>
+  <strong>Channel:</strong>
+  <%= @ref.channel %>
+</p>
+
+<p>
+  <strong>Exec file:</strong>
+  <%= @ref.exec_file %>
+</p>
+
+<%= link_to 'Edit', edit_ref_path(@ref) %> |
+<%= link_to 'Back', refs_path %>

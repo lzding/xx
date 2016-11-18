@@ -1,0 +1,38 @@
+<p id="notice"><%= notice %></p>
+<div>
+<h2>渠道管理</h2>
+<%= link_to '添加渠道', new_custom_path ,class: 'btn btn-success'%>
+</div>
+<table class="table table-hover" style="table-layout: fixed;word-wrap: break-word;">
+  <thead>
+    <tr>
+      <th class="wp7">渠道商名称</th>
+      <th class="wp12">过期时间</th>
+      <th class="wp25">Token</th>
+      <th>渠道类型</th>
+      <th>CMD</th>
+      <th>状态</th>
+      <th colspan="3" class="wp10"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @customs.each do |custom| %>
+      <tr>
+        <td><%= custom.name %></td>
+        <td><%= custom.expire_date.strftime('%Y-%m-%d %H:%M:%S') %></td>
+        <td><%= custom.token %></td>
+        <td><%= custom.channel_label %></td>
+        <td><%= custom.cmd %></td>
+        <td><%= custom.status ? '启用' : '禁用' %></td>
+        <td><%= link_to '查看', custom ,:class => 'btn btn-default btn-xs'%></td>
+        <td><%= link_to '编辑', edit_custom_path(custom) , :class => 'btn btn-info btn-xs'%></td>
+        <td><%= link_to '删除', custom, method: :delete, data: { confirm: 'Are you sure?' } ,:class => 'btn btn-xs btn-danger'%></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to '添加渠道', new_custom_path ,class: 'btn btn-success'%>

@@ -1,0 +1,53 @@
+<p id="notice"><%= notice %></p>
+
+<div>
+    <span><%= link_to '所有方案', root_files_path, :class => info_class(nil,@category)%></span>
+    <span><%= link_to '使用中的方案', root_files_path(category:'valid'), :class => info_class('valid',@category)%></span>
+    <span><%= link_to '未使用的方案', root_files_path(category:'invalid'), :class => info_class('invalid',@category)%></span>
+    <span style="float: right;"><%= link_to '添加新方案', new_root_file_path, :class => 'btn btn-success'%></span>
+</div>
+<table class="table table-hover">
+  <thead>
+    <tr>
+
+      <th>#(ID)</th>
+      <th>优先级</th>
+      <th>方案</th>
+      <th>执行参数</th>
+      <th>KeyWorkd</th>
+      <th>类型</th>
+      <th>备注</th>
+      <th>是否启用</th>
+      <th>适配机型个数</th>
+      <th>成功调用次数</th>
+      <th>失败调用次数</th>
+      <th colspan="2">操作</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @root_files.each do |root_file| %>
+      <tr>
+        <td><%= root_file.id %></td>
+        <td><%= root_file.sort_num %></td>
+        <td><%= link_to root_file.file_hex,root_file.file.to_s %></td>
+        <td><%= root_file.execute_params %></td>
+        <td><%= root_file.keyword %></td>
+        <td><%= category_name root_file %></td>
+        <td><%= root_file.source_name %></td>
+        <td><%= root_file.status ? '启用' : '禁用' %></td>
+        <td style="text-align: center"><%= link_to render_count(root_file.phones.count), phones_path(root_file_id: root_file.id)  %></td>
+
+        <td><%=link_to ("<span class=\"badge progress-bar-success\">#{@success.fetch(root_file.id, 0)}</span>").html_safe ,access_logs_path(root_file_id: root_file.id,status:1)%></td>
+        <td><%=link_to "<span class=\"badge progress-bar-danger\">#{@failed.fetch(root_file.id, 0)}</span>".html_safe,access_logs_path(root_file_id: root_file.id,status:-1) %></td>
+        <!--<td><%= link_to 'Show', root_file %></td>-->
+        <td><%= link_to '编辑', edit_root_file_path(root_file), :class => 'btn btn-info btn-xs' %></td>
+        <td><%= link_to '删除', root_file, method: :delete, data: { confirm: 'Are you sure?' },:class => 'btn btn-default btn-xs'  %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to '添加新方案', new_root_file_path, :class => 'btn btn-success'%>

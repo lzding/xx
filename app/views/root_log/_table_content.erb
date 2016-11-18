@@ -1,0 +1,12 @@
+<thead>
+<tr>
+  <%= render partial: "th", collection: @selected_fields %>
+</tr>
+</thead>
+<tbody>
+<%@logs.each do |columns| %>
+    <tr>
+      <%= render partial: "td", collection: columns  %>
+    </tr>
+<%end%>
+</tbody>

@@ -1,0 +1,12 @@
+<thead>
+<tr>
+  <%= render partial: "th", collection: @selected_fields %>
+</tr>
+</thead>
+<tbody>
+<%@data.each do |device| %>
+    <tr>
+      <%= render partial: "td", collection: device %>
+    </tr>
+<%end%>
+</tbody>

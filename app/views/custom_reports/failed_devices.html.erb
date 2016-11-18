@@ -1,0 +1,69 @@
+<script>
+  function get_selected_fields(){
+      var selected_fields = [];
+      $("#select_fields li.active").each(
+              function(index){
+                  selected_fields.push($(this).data("value"));
+              }
+      );
+      return selected_fields;
+  }
+
+  function get_status(){
+      return $('#wrap input[name="status"]:checked ').val();
+  }
+
+
+ $(function(){
+     $("#select_fields li").bind("click",function(e){
+         $(this).toggleClass("active");
+     });
+     $("#search_button").bind("click",function(e){
+         var arr = get_selected_fields();
+         var status = get_status();
+         console.log(status);
+         $( "#body_content" ).load( "/failed_top.json",{ "selected_fields[]": arr, "status": status } );
+     });
+     $("#export_button").bind("click",function(e){
+         window.open('/failed_top.csv?selected_fields[]='+get_selected_fields()+ '&status='+get_status());
+     });
+ });
+</script>
+<style>
+    ul.switches{box-sizing:border-box;list-style:none;margin:0;padding:0;width:100%;zoom:1;} ul.switches:before, ul.switches:after{content:"";display:table;}
+    ul.switches:after{clear:both;}
+    ul.switches li{box-sizing:border-box;float:left;display:inline-block;padding:8px 0;text-align:center;background-color:#cecece;color:white;border-radius:3px;font-family:'ProximaNova-Sbold',Arial,sans-serif;font-size:13px;font-weight:normal;line-height:13px;margin-right:1%;margin-bottom:2px;cursor:pointer;} ul.switches li:hover{background-color:#9b9b9b;} ul.switches li:hover div.ribbon-initial:after{border-color:transparent transparent #9b9b9b transparent !important;}
+    ul.switches li.active, ul.switches li.active:hover{background-color:#97ca40;} ul.switches li.active div.ribbon-initial:after, ul.switches li.active:hover div.ribbon-initial:after{border-color:transparent transparent #97ca40 transparent !important;}
+    ul.switches.half li{width:49%;}
+    ul.switches.third li{width:32%;}
+    ul.switches.quarter li{width:24%;}
+    ul.switches.full li{float:none;width:100%;margin-right:0;}
+    ul.switches.inline li{width:auto;padding-right:12px;padding-left:11px;margin-right:2px;}
+    ul.switches.kids-list{position:relative;} ul.switches.kids-list li{text-align:left;text-transform:none;position:relative;margin-bottom:8px;} ul.switches.kids-list li span.name{display:inline-block;padding-left:10px;}
+    ul.switches.kids-list li span.controls{position:absolute;top:-6px;right:5px;width:50px;} ul.switches.kids-list li span.controls div.ribbon-initial{float:left;margin-right:0;} ul.switches.kids-list li span.controls div.ribbon-initial:after{border-color:transparent transparent #cecece transparent;}
+    ul.switches.kids-list li span.controls span.edit-icon{font-size:20px;margin-top:9px;float:right;display:inline-block;}
+</style>
+<div style="padding: 50px;width: 100%">
+<!--<div class="panel panel-warning" style="width: 100%">-->
+  <!--</div>-->
+  <div class="panel-heading">
+
+  <div class="panel-body">
+    <ul id="select_fields" class="switches inline" data-bind="what" data-mode="multi">
+      <%= render partial: "field", collection: @all_fields %>
+    </ul>
+    <div id="wrap">
+    <input type="radio" name="status" value="-1" <% if @status == -1%> checked<%end%>>失败      <input type="radio" name="status" value="1" <% if @status == 1%> checked<%end%>>成功
+    </div>
+
+    <div style="float: right">
+    <button id="search_button" class="btn btn-success">提交</button>   <button id="export_button" class="btn btn-info">导出</button>
+   </div>
+  </div>
+  </div>
+
+  <table id="body_content" class="table table-bordered" style="padding: 10px;">
+    <%= render partial: 'table_content' %>
+  </table>
+<!--</div>-->
+</div>

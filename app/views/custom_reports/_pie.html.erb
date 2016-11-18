@@ -1,0 +1,60 @@
+<div style="text-align: center;">
+<% data.keys.each do |key| %>
+    <span id="container-<%=key.gsub('.','-')%>" style="min-width: 320px; height: 250px; margin: 0 auto;float: left;padding-right: 50px;"></span>
+<% end %>
+</div>
+<script type="text/javascript">
+    $(function () {
+        <% data.keys.each do |key| %>
+        $('#container-<%=key.gsub('.','-')%>').highcharts({
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+                text: "[<%= @day + key%>]  渠道 root 调用情况"
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    point: {
+                        events: {
+                            click: function (e) {
+                                window.open(e.point.link);
+
+                            }
+                        }
+                    },
+
+                                dataLabels: {
+                        enabled: true,
+                        format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                        style: {
+                            color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                        }
+                    }
+                }
+            },
+            series: [{
+                name: "<%= key%>",
+                colorByPoint: true,
+                data: [{
+                    link: "/custom_reports/index?day=<%=data["#{key}"][:day]%>&custom_id=<%=data["#{key}"][:custom_id]%>&status=1",
+                    name: "成功[<%=data["#{key}"][:succeed] %>]",
+                    y: <%=data["#{key}"][:succeed] %>
+                }, {
+                    link: "/custom_reports/index?day=<%=data["#{key}"][:day]%>&custom_id=<%=data["#{key}"][:custom_id]%>&status=-1",
+                    name: "失败[<%=data["#{key}"][:failed] %>]",
+                    y: <%=data["#{key}"][:failed] %>
+                }]
+            }]
+        });
+        <% end %>
+    });
+</script>

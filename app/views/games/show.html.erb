@@ -1,0 +1,140 @@
+<p id="notice" class="alert alert-info"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @game.title %>
+</p>
+
+<p>
+  <strong>Size:</strong>
+  <%= @game.size %>
+</p>
+
+<p>
+  <strong>Game type:</strong>
+  <%= @game.gametype %>
+</p>
+
+<p>
+  <strong>Icon:</strong>
+  <%= @game.icon %>
+</p>
+
+<p>
+  <strong>Picture:</strong>
+  <%= @game.picture %>
+</p>
+
+<p>
+  <strong>Content:</strong>
+  <%= @game.content %>
+</p>
+
+<p>
+  <strong>Createtime:</strong>
+  <%= @game.createtime %>
+</p>
+
+<p>
+  <strong>Updatetime:</strong>
+  <%= @game.updatetime %>
+</p>
+
+<p>
+  <strong>Company:</strong>
+  <%= @game.company_id %>
+</p>
+
+<p>
+  <strong>Version:</strong>
+  <%= @game.version %>
+</p>
+
+<p>
+  <strong>State:</strong>
+  <%= @game.state %>
+</p>
+
+<p>
+  <strong>Need internet:</strong>
+  <%= @game.need_internet %>
+</p>
+
+<p>
+  <strong>Need google:</strong>
+  <%= @game.need_google %>
+</p>
+
+<p>
+  <strong>Free:</strong>
+  <%= @game.free %>
+</p>
+
+<p>
+  <strong>Need vpn:</strong>
+  <%= @game.need_vpn %>
+</p>
+
+<p>
+  <strong>Chinese:</strong>
+  <%= @game.Chinese %>
+</p>
+
+<p>
+  <strong>Download url:</strong>
+  <%= @game.download_url %>
+</p>
+
+<p>
+  <strong>Download url second:</strong>
+  <%= @game.download_url_second %>
+</p>
+
+<p>
+  <strong>Download url share:</strong>
+  <%= @game.download_url_share %>
+</p>
+
+<p>
+  <strong>Share url pwd:</strong>
+  <%= @game.share_url_pwd %>
+</p>
+<% if @game.game_detail %>
+<p>
+  <strong>Editor:</strong>
+  <%= @game.game_detail.editor %>
+</p>
+
+<p>
+  <strong>Editor pic:</strong>
+  <%= @game.game_detail.editor_pic %>
+</p>
+
+<p>
+  <strong>Content:</strong>
+  <%= @game.game_detail.content %>
+</p>
+
+<p>
+  <strong>Crack info:</strong>
+  <%= @game.game_detail.crack_info %>
+</p>
+
+<p>
+  <strong>Test cellphone list:</strong>
+  <%= @game.game_detail.test_cellphone_list %>
+</p>
+
+<p>
+  <strong>Comefrom:</strong>
+  <%= @game.game_detail.comefrom %>
+</p>
+<%end%>
+<p>
+<%if @game.game_images%>
+    <%= render partial: "game_image", collection: @game.game_images %>
+<% end %>
+</p>
+
+<%= link_to '编辑游戏信息', edit_game_path(@game) %> |
+<%= link_to '返回游戏列表', games_path %>
